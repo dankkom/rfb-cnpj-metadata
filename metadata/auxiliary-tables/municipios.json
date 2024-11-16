@@ -1,0 +1,192 @@
+[
+ {
+  "name": "Municipios",
+  "extension": "zip",
+  "url": "https://arquivos.receitafederal.gov.br/dados/cnpj/dados_abertos_cnpj/2023-05/Municipios.zip",
+  "file_size": 43436,
+  "last_modified": "2023-05-16T18:47:29",
+  "dataset": "municipios",
+  "group": "tabelas-auxiliares",
+  "date_ref": "2023-05"
+ },
+ {
+  "name": "Municipios",
+  "extension": "zip",
+  "url": "https://arquivos.receitafederal.gov.br/dados/cnpj/dados_abertos_cnpj/2023-06/Municipios.zip",
+  "file_size": 43436,
+  "last_modified": "2023-06-12T18:40:27",
+  "dataset": "municipios",
+  "group": "tabelas-auxiliares",
+  "date_ref": "2023-06"
+ },
+ {
+  "name": "Municipios",
+  "extension": "zip",
+  "url": "https://arquivos.receitafederal.gov.br/dados/cnpj/dados_abertos_cnpj/2023-07/Municipios.zip",
+  "file_size": 43436,
+  "last_modified": "2023-07-17T14:10:52",
+  "dataset": "municipios",
+  "group": "tabelas-auxiliares",
+  "date_ref": "2023-07"
+ },
+ {
+  "name": "Municipios",
+  "extension": "zip",
+  "url": "https://arquivos.receitafederal.gov.br/dados/cnpj/dados_abertos_cnpj/2023-08/Municipios.zip",
+  "file_size": 43440,
+  "last_modified": "2023-08-21T10:29:55",
+  "dataset": "municipios",
+  "group": "tabelas-auxiliares",
+  "date_ref": "2023-08"
+ },
+ {
+  "name": "Municipios",
+  "extension": "zip",
+  "url": "https://arquivos.receitafederal.gov.br/dados/cnpj/dados_abertos_cnpj/2023-09/Municipios.zip",
+  "file_size": 43440,
+  "last_modified": "2023-09-15T14:21:22",
+  "dataset": "municipios",
+  "group": "tabelas-auxiliares",
+  "date_ref": "2023-09"
+ },
+ {
+  "name": "Municipios",
+  "extension": "zip",
+  "url": "https://arquivos.receitafederal.gov.br/dados/cnpj/dados_abertos_cnpj/2023-10/Municipios.zip",
+  "file_size": 43440,
+  "last_modified": "2023-10-18T21:07:04",
+  "dataset": "municipios",
+  "group": "tabelas-auxiliares",
+  "date_ref": "2023-10"
+ },
+ {
+  "name": "Municipios",
+  "extension": "zip",
+  "url": "https://arquivos.receitafederal.gov.br/dados/cnpj/dados_abertos_cnpj/2023-11/Municipios.zip",
+  "file_size": 43440,
+  "last_modified": "2023-11-16T14:10:30",
+  "dataset": "municipios",
+  "group": "tabelas-auxiliares",
+  "date_ref": "2023-11"
+ },
+ {
+  "name": "Municipios",
+  "extension": "zip",
+  "url": "https://arquivos.receitafederal.gov.br/dados/cnpj/dados_abertos_cnpj/2023-12/Municipios.zip",
+  "file_size": 43440,
+  "last_modified": "2023-12-11T21:12:45",
+  "dataset": "municipios",
+  "group": "tabelas-auxiliares",
+  "date_ref": "2023-12"
+ },
+ {
+  "name": "Municipios",
+  "extension": "zip",
+  "url": "https://arquivos.receitafederal.gov.br/dados/cnpj/dados_abertos_cnpj/2024-01/Municipios.zip",
+  "file_size": 43440,
+  "last_modified": "2024-01-16T13:06:49",
+  "dataset": "municipios",
+  "group": "tabelas-auxiliares",
+  "date_ref": "2024-01"
+ },
+ {
+  "name": "Municipios",
+  "extension": "zip",
+  "url": "https://arquivos.receitafederal.gov.br/dados/cnpj/dados_abertos_cnpj/2024-02/Municipios.zip",
+  "file_size": 43440,
+  "last_modified": "2024-02-16T17:59:05",
+  "dataset": "municipios",
+  "group": "tabelas-auxiliares",
+  "date_ref": "2024-02"
+ },
+ {
+  "name": "Municipios",
+  "extension": "zip",
+  "url": "https://arquivos.receitafederal.gov.br/dados/cnpj/dados_abertos_cnpj/2024-03/Municipios.zip",
+  "file_size": 43440,
+  "last_modified": "2024-03-15T11:48:30",
+  "dataset": "municipios",
+  "group": "tabelas-auxiliares",
+  "date_ref": "2024-03"
+ },
+ {
+  "name": "Municipios",
+  "extension": "zip",
+  "url": "https://arquivos.receitafederal.gov.br/dados/cnpj/dados_abertos_cnpj/2024-04/Municipios.zip",
+  "file_size": 43440,
+  "last_modified": "2024-04-17T12:53:43",
+  "dataset": "municipios",
+  "group": "tabelas-auxiliares",
+  "date_ref": "2024-04"
+ },
+ {
+  "name": "Municipios",
+  "extension": "zip",
+  "url": "https://arquivos.receitafederal.gov.br/dados/cnpj/dados_abertos_cnpj/2024-05/Municipios.zip",
+  "file_size": 43440,
+  "last_modified": "2024-10-18T23:52:19",
+  "dataset": "municipios",
+  "group": "tabelas-auxiliares",
+  "date_ref": "2024-05"
+ },
+ {
+  "name": "Municipios",
+  "extension": "zip",
+  "url": "https://arquivos.receitafederal.gov.br/dados/cnpj/dados_abertos_cnpj/2024-06/Municipios.zip",
+  "file_size": 43440,
+  "last_modified": "2024-10-19T01:32:01",
+  "dataset": "municipios",
+  "group": "tabelas-auxiliares",
+  "date_ref": "2024-06"
+ },
+ {
+  "name": "Municipios",
+  "extension": "zip",
+  "url": "https://arquivos.receitafederal.gov.br/dados/cnpj/dados_abertos_cnpj/2024-07/Municipios.zip",
+  "file_size": 43440,
+  "last_modified": "2024-10-19T06:56:24",
+  "dataset": "municipios",
+  "group": "tabelas-auxiliares",
+  "date_ref": "2024-07"
+ },
+ {
+  "name": "Municipios",
+  "extension": "zip",
+  "url": "https://arquivos.receitafederal.gov.br/dados/cnpj/dados_abertos_cnpj/2024-08/Municipios.zip",
+  "file_size": 43440,
+  "last_modified": "2024-10-07T15:55:08",
+  "dataset": "municipios",
+  "group": "tabelas-auxiliares",
+  "date_ref": "2024-08"
+ },
+ {
+  "name": "Municipios",
+  "extension": "zip",
+  "url": "https://arquivos.receitafederal.gov.br/dados/cnpj/dados_abertos_cnpj/2024-09/Municipios.zip",
+  "file_size": 43440,
+  "last_modified": "2024-10-03T23:56:41",
+  "dataset": "municipios",
+  "group": "tabelas-auxiliares",
+  "date_ref": "2024-09"
+ },
+ {
+  "name": "Municipios",
+  "extension": "zip",
+  "url": "https://arquivos.receitafederal.gov.br/dados/cnpj/dados_abertos_cnpj/2024-10/Municipios.zip",
+  "file_size": 43439,
+  "last_modified": "2024-10-19T20:06:46",
+  "dataset": "municipios",
+  "group": "tabelas-auxiliares",
+  "date_ref": "2024-10"
+ },
+ {
+  "name": "Municipios",
+  "extension": "zip",
+  "url": "https://arquivos.receitafederal.gov.br/dados/cnpj/dados_abertos_cnpj/2024-11/Municipios.zip",
+  "file_size": 43439,
+  "last_modified": "2024-11-13T19:17:42",
+  "dataset": "municipios",
+  "group": "tabelas-auxiliares",
+  "date_ref": "2024-11"
+ }
+]

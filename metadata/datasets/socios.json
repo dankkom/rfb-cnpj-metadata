@@ -1,0 +1,1902 @@
+[
+ {
+  "name": "Socios0",
+  "extension": "zip",
+  "url": "https://arquivos.receitafederal.gov.br/dados/cnpj/dados_abertos_cnpj/2023-05/Socios0.zip",
+  "file_size": 111975108,
+  "last_modified": "2023-05-16T18:44:11",
+  "dataset": "socios",
+  "date_ref": "2023-05",
+  "partition": "0"
+ },
+ {
+  "name": "Socios1",
+  "extension": "zip",
+  "url": "https://arquivos.receitafederal.gov.br/dados/cnpj/dados_abertos_cnpj/2023-05/Socios1.zip",
+  "file_size": 49301380,
+  "last_modified": "2023-05-16T18:38:06",
+  "dataset": "socios",
+  "date_ref": "2023-05",
+  "partition": "1"
+ },
+ {
+  "name": "Socios2",
+  "extension": "zip",
+  "url": "https://arquivos.receitafederal.gov.br/dados/cnpj/dados_abertos_cnpj/2023-05/Socios2.zip",
+  "file_size": 49218036,
+  "last_modified": "2023-05-16T18:37:18",
+  "dataset": "socios",
+  "date_ref": "2023-05",
+  "partition": "2"
+ },
+ {
+  "name": "Socios3",
+  "extension": "zip",
+  "url": "https://arquivos.receitafederal.gov.br/dados/cnpj/dados_abertos_cnpj/2023-05/Socios3.zip",
+  "file_size": 49050055,
+  "last_modified": "2023-05-16T18:36:38",
+  "dataset": "socios",
+  "date_ref": "2023-05",
+  "partition": "3"
+ },
+ {
+  "name": "Socios4",
+  "extension": "zip",
+  "url": "https://arquivos.receitafederal.gov.br/dados/cnpj/dados_abertos_cnpj/2023-05/Socios4.zip",
+  "file_size": 49154570,
+  "last_modified": "2023-05-16T18:35:44",
+  "dataset": "socios",
+  "date_ref": "2023-05",
+  "partition": "4"
+ },
+ {
+  "name": "Socios5",
+  "extension": "zip",
+  "url": "https://arquivos.receitafederal.gov.br/dados/cnpj/dados_abertos_cnpj/2023-05/Socios5.zip",
+  "file_size": 49202503,
+  "last_modified": "2023-05-16T18:42:25",
+  "dataset": "socios",
+  "date_ref": "2023-05",
+  "partition": "5"
+ },
+ {
+  "name": "Socios6",
+  "extension": "zip",
+  "url": "https://arquivos.receitafederal.gov.br/dados/cnpj/dados_abertos_cnpj/2023-05/Socios6.zip",
+  "file_size": 49027099,
+  "last_modified": "2023-05-16T18:41:30",
+  "dataset": "socios",
+  "date_ref": "2023-05",
+  "partition": "6"
+ },
+ {
+  "name": "Socios7",
+  "extension": "zip",
+  "url": "https://arquivos.receitafederal.gov.br/dados/cnpj/dados_abertos_cnpj/2023-05/Socios7.zip",
+  "file_size": 49070218,
+  "last_modified": "2023-05-16T18:40:38",
+  "dataset": "socios",
+  "date_ref": "2023-05",
+  "partition": "7"
+ },
+ {
+  "name": "Socios8",
+  "extension": "zip",
+  "url": "https://arquivos.receitafederal.gov.br/dados/cnpj/dados_abertos_cnpj/2023-05/Socios8.zip",
+  "file_size": 49089902,
+  "last_modified": "2023-05-16T18:39:51",
+  "dataset": "socios",
+  "date_ref": "2023-05",
+  "partition": "8"
+ },
+ {
+  "name": "Socios9",
+  "extension": "zip",
+  "url": "https://arquivos.receitafederal.gov.br/dados/cnpj/dados_abertos_cnpj/2023-05/Socios9.zip",
+  "file_size": 49214972,
+  "last_modified": "2023-05-16T18:39:00",
+  "dataset": "socios",
+  "date_ref": "2023-05",
+  "partition": "9"
+ },
+ {
+  "name": "Socios0",
+  "extension": "zip",
+  "url": "https://arquivos.receitafederal.gov.br/dados/cnpj/dados_abertos_cnpj/2023-06/Socios0.zip",
+  "file_size": 114187771,
+  "last_modified": "2023-06-12T18:37:36",
+  "dataset": "socios",
+  "date_ref": "2023-06",
+  "partition": "0"
+ },
+ {
+  "name": "Socios1",
+  "extension": "zip",
+  "url": "https://arquivos.receitafederal.gov.br/dados/cnpj/dados_abertos_cnpj/2023-06/Socios1.zip",
+  "file_size": 49308625,
+  "last_modified": "2023-06-12T18:31:31",
+  "dataset": "socios",
+  "date_ref": "2023-06",
+  "partition": "1"
+ },
+ {
+  "name": "Socios2",
+  "extension": "zip",
+  "url": "https://arquivos.receitafederal.gov.br/dados/cnpj/dados_abertos_cnpj/2023-06/Socios2.zip",
+  "file_size": 49237101,
+  "last_modified": "2023-06-12T18:30:44",
+  "dataset": "socios",
+  "date_ref": "2023-06",
+  "partition": "2"
+ },
+ {
+  "name": "Socios3",
+  "extension": "zip",
+  "url": "https://arquivos.receitafederal.gov.br/dados/cnpj/dados_abertos_cnpj/2023-06/Socios3.zip",
+  "file_size": 49077270,
+  "last_modified": "2023-06-12T18:28:56",
+  "dataset": "socios",
+  "date_ref": "2023-06",
+  "partition": "3"
+ },
+ {
+  "name": "Socios4",
+  "extension": "zip",
+  "url": "https://arquivos.receitafederal.gov.br/dados/cnpj/dados_abertos_cnpj/2023-06/Socios4.zip",
+  "file_size": 49163235,
+  "last_modified": "2023-06-12T18:36:04",
+  "dataset": "socios",
+  "date_ref": "2023-06",
+  "partition": "4"
+ },
+ {
+  "name": "Socios5",
+  "extension": "zip",
+  "url": "https://arquivos.receitafederal.gov.br/dados/cnpj/dados_abertos_cnpj/2023-06/Socios5.zip",
+  "file_size": 49253198,
+  "last_modified": "2023-06-12T18:35:19",
+  "dataset": "socios",
+  "date_ref": "2023-06",
+  "partition": "5"
+ },
+ {
+  "name": "Socios6",
+  "extension": "zip",
+  "url": "https://arquivos.receitafederal.gov.br/dados/cnpj/dados_abertos_cnpj/2023-06/Socios6.zip",
+  "file_size": 48976105,
+  "last_modified": "2023-06-12T18:34:39",
+  "dataset": "socios",
+  "date_ref": "2023-06",
+  "partition": "6"
+ },
+ {
+  "name": "Socios7",
+  "extension": "zip",
+  "url": "https://arquivos.receitafederal.gov.br/dados/cnpj/dados_abertos_cnpj/2023-06/Socios7.zip",
+  "file_size": 49056349,
+  "last_modified": "2023-06-12T18:33:50",
+  "dataset": "socios",
+  "date_ref": "2023-06",
+  "partition": "7"
+ },
+ {
+  "name": "Socios8",
+  "extension": "zip",
+  "url": "https://arquivos.receitafederal.gov.br/dados/cnpj/dados_abertos_cnpj/2023-06/Socios8.zip",
+  "file_size": 49127355,
+  "last_modified": "2023-06-12T18:33:00",
+  "dataset": "socios",
+  "date_ref": "2023-06",
+  "partition": "8"
+ },
+ {
+  "name": "Socios9",
+  "extension": "zip",
+  "url": "https://arquivos.receitafederal.gov.br/dados/cnpj/dados_abertos_cnpj/2023-06/Socios9.zip",
+  "file_size": 49271666,
+  "last_modified": "2023-06-12T18:32:17",
+  "dataset": "socios",
+  "date_ref": "2023-06",
+  "partition": "9"
+ },
+ {
+  "name": "Socios0",
+  "extension": "zip",
+  "url": "https://arquivos.receitafederal.gov.br/dados/cnpj/dados_abertos_cnpj/2023-07/Socios0.zip",
+  "file_size": 116859451,
+  "last_modified": "2023-07-17T14:10:33",
+  "dataset": "socios",
+  "date_ref": "2023-07",
+  "partition": "0"
+ },
+ {
+  "name": "Socios1",
+  "extension": "zip",
+  "url": "https://arquivos.receitafederal.gov.br/dados/cnpj/dados_abertos_cnpj/2023-07/Socios1.zip",
+  "file_size": 49320814,
+  "last_modified": "2023-07-17T14:09:54",
+  "dataset": "socios",
+  "date_ref": "2023-07",
+  "partition": "1"
+ },
+ {
+  "name": "Socios2",
+  "extension": "zip",
+  "url": "https://arquivos.receitafederal.gov.br/dados/cnpj/dados_abertos_cnpj/2023-07/Socios2.zip",
+  "file_size": 49242482,
+  "last_modified": "2023-07-17T14:09:49",
+  "dataset": "socios",
+  "date_ref": "2023-07",
+  "partition": "2"
+ },
+ {
+  "name": "Socios3",
+  "extension": "zip",
+  "url": "https://arquivos.receitafederal.gov.br/dados/cnpj/dados_abertos_cnpj/2023-07/Socios3.zip",
+  "file_size": 49076335,
+  "last_modified": "2023-07-17T14:09:43",
+  "dataset": "socios",
+  "date_ref": "2023-07",
+  "partition": "3"
+ },
+ {
+  "name": "Socios4",
+  "extension": "zip",
+  "url": "https://arquivos.receitafederal.gov.br/dados/cnpj/dados_abertos_cnpj/2023-07/Socios4.zip",
+  "file_size": 49161774,
+  "last_modified": "2023-07-17T14:10:22",
+  "dataset": "socios",
+  "date_ref": "2023-07",
+  "partition": "4"
+ },
+ {
+  "name": "Socios5",
+  "extension": "zip",
+  "url": "https://arquivos.receitafederal.gov.br/dados/cnpj/dados_abertos_cnpj/2023-07/Socios5.zip",
+  "file_size": 49207372,
+  "last_modified": "2023-07-17T14:10:18",
+  "dataset": "socios",
+  "date_ref": "2023-07",
+  "partition": "5"
+ },
+ {
+  "name": "Socios6",
+  "extension": "zip",
+  "url": "https://arquivos.receitafederal.gov.br/dados/cnpj/dados_abertos_cnpj/2023-07/Socios6.zip",
+  "file_size": 49035647,
+  "last_modified": "2023-07-17T14:10:14",
+  "dataset": "socios",
+  "date_ref": "2023-07",
+  "partition": "6"
+ },
+ {
+  "name": "Socios7",
+  "extension": "zip",
+  "url": "https://arquivos.receitafederal.gov.br/dados/cnpj/dados_abertos_cnpj/2023-07/Socios7.zip",
+  "file_size": 49043000,
+  "last_modified": "2023-07-17T14:10:09",
+  "dataset": "socios",
+  "date_ref": "2023-07",
+  "partition": "7"
+ },
+ {
+  "name": "Socios8",
+  "extension": "zip",
+  "url": "https://arquivos.receitafederal.gov.br/dados/cnpj/dados_abertos_cnpj/2023-07/Socios8.zip",
+  "file_size": 49138325,
+  "last_modified": "2023-07-17T14:10:02",
+  "dataset": "socios",
+  "date_ref": "2023-07",
+  "partition": "8"
+ },
+ {
+  "name": "Socios9",
+  "extension": "zip",
+  "url": "https://arquivos.receitafederal.gov.br/dados/cnpj/dados_abertos_cnpj/2023-07/Socios9.zip",
+  "file_size": 49290001,
+  "last_modified": "2023-07-17T14:09:59",
+  "dataset": "socios",
+  "date_ref": "2023-07",
+  "partition": "9"
+ },
+ {
+  "name": "Socios0",
+  "extension": "zip",
+  "url": "https://arquivos.receitafederal.gov.br/dados/cnpj/dados_abertos_cnpj/2023-08/Socios0.zip",
+  "file_size": 262144,
+  "last_modified": "2023-08-16T07:38:50",
+  "dataset": "socios",
+  "date_ref": "2023-08",
+  "partition": "0"
+ },
+ {
+  "name": "Socios1",
+  "extension": "zip",
+  "url": "https://arquivos.receitafederal.gov.br/dados/cnpj/dados_abertos_cnpj/2023-08/Socios1.zip",
+  "file_size": 49336392,
+  "last_modified": "2023-08-16T07:28:57",
+  "dataset": "socios",
+  "date_ref": "2023-08",
+  "partition": "1"
+ },
+ {
+  "name": "Socios2",
+  "extension": "zip",
+  "url": "https://arquivos.receitafederal.gov.br/dados/cnpj/dados_abertos_cnpj/2023-08/Socios2.zip",
+  "file_size": 49235520,
+  "last_modified": "2023-08-16T07:23:29",
+  "dataset": "socios",
+  "date_ref": "2023-08",
+  "partition": "2"
+ },
+ {
+  "name": "Socios3",
+  "extension": "zip",
+  "url": "https://arquivos.receitafederal.gov.br/dados/cnpj/dados_abertos_cnpj/2023-08/Socios3.zip",
+  "file_size": 49050760,
+  "last_modified": "2023-08-21T10:33:40",
+  "dataset": "socios",
+  "date_ref": "2023-08",
+  "partition": "3"
+ },
+ {
+  "name": "Socios4",
+  "extension": "zip",
+  "url": "https://arquivos.receitafederal.gov.br/dados/cnpj/dados_abertos_cnpj/2023-08/Socios4.zip",
+  "file_size": 49184272,
+  "last_modified": "2023-08-21T10:34:15",
+  "dataset": "socios",
+  "date_ref": "2023-08",
+  "partition": "4"
+ },
+ {
+  "name": "Socios5",
+  "extension": "zip",
+  "url": "https://arquivos.receitafederal.gov.br/dados/cnpj/dados_abertos_cnpj/2023-08/Socios5.zip",
+  "file_size": 49185383,
+  "last_modified": "2023-08-21T10:34:15",
+  "dataset": "socios",
+  "date_ref": "2023-08",
+  "partition": "5"
+ },
+ {
+  "name": "Socios6",
+  "extension": "zip",
+  "url": "https://arquivos.receitafederal.gov.br/dados/cnpj/dados_abertos_cnpj/2023-08/Socios6.zip",
+  "file_size": 49051984,
+  "last_modified": "2023-08-21T10:35:03",
+  "dataset": "socios",
+  "date_ref": "2023-08",
+  "partition": "6"
+ },
+ {
+  "name": "Socios7",
+  "extension": "zip",
+  "url": "https://arquivos.receitafederal.gov.br/dados/cnpj/dados_abertos_cnpj/2023-08/Socios7.zip",
+  "file_size": 5505024,
+  "last_modified": "2023-08-16T07:38:28",
+  "dataset": "socios",
+  "date_ref": "2023-08",
+  "partition": "7"
+ },
+ {
+  "name": "Socios8",
+  "extension": "zip",
+  "url": "https://arquivos.receitafederal.gov.br/dados/cnpj/dados_abertos_cnpj/2023-08/Socios8.zip",
+  "file_size": 49204643,
+  "last_modified": "2023-08-16T07:37:50",
+  "dataset": "socios",
+  "date_ref": "2023-08",
+  "partition": "8"
+ },
+ {
+  "name": "Socios9",
+  "extension": "zip",
+  "url": "https://arquivos.receitafederal.gov.br/dados/cnpj/dados_abertos_cnpj/2023-08/Socios9.zip",
+  "file_size": 49309075,
+  "last_modified": "2023-08-16T07:33:47",
+  "dataset": "socios",
+  "date_ref": "2023-08",
+  "partition": "9"
+ },
+ {
+  "name": "Socios0",
+  "extension": "zip",
+  "url": "https://arquivos.receitafederal.gov.br/dados/cnpj/dados_abertos_cnpj/2023-09/Socios0.zip",
+  "file_size": 122665151,
+  "last_modified": "2023-09-15T12:38:15",
+  "dataset": "socios",
+  "date_ref": "2023-09",
+  "partition": "0"
+ },
+ {
+  "name": "Socios1",
+  "extension": "zip",
+  "url": "https://arquivos.receitafederal.gov.br/dados/cnpj/dados_abertos_cnpj/2023-09/Socios1.zip",
+  "file_size": 49338389,
+  "last_modified": "2023-09-15T12:34:45",
+  "dataset": "socios",
+  "date_ref": "2023-09",
+  "partition": "1"
+ },
+ {
+  "name": "Socios2",
+  "extension": "zip",
+  "url": "https://arquivos.receitafederal.gov.br/dados/cnpj/dados_abertos_cnpj/2023-09/Socios2.zip",
+  "file_size": 49236259,
+  "last_modified": "2023-09-15T12:37:10",
+  "dataset": "socios",
+  "date_ref": "2023-09",
+  "partition": "2"
+ },
+ {
+  "name": "Socios3",
+  "extension": "zip",
+  "url": "https://arquivos.receitafederal.gov.br/dados/cnpj/dados_abertos_cnpj/2023-09/Socios3.zip",
+  "file_size": 49078820,
+  "last_modified": "2023-09-15T12:39:21",
+  "dataset": "socios",
+  "date_ref": "2023-09",
+  "partition": "3"
+ },
+ {
+  "name": "Socios4",
+  "extension": "zip",
+  "url": "https://arquivos.receitafederal.gov.br/dados/cnpj/dados_abertos_cnpj/2023-09/Socios4.zip",
+  "file_size": 49196094,
+  "last_modified": "2023-09-15T12:40:29",
+  "dataset": "socios",
+  "date_ref": "2023-09",
+  "partition": "4"
+ },
+ {
+  "name": "Socios5",
+  "extension": "zip",
+  "url": "https://arquivos.receitafederal.gov.br/dados/cnpj/dados_abertos_cnpj/2023-09/Socios5.zip",
+  "file_size": 49149652,
+  "last_modified": "2023-09-15T12:41:37",
+  "dataset": "socios",
+  "date_ref": "2023-09",
+  "partition": "5"
+ },
+ {
+  "name": "Socios6",
+  "extension": "zip",
+  "url": "https://arquivos.receitafederal.gov.br/dados/cnpj/dados_abertos_cnpj/2023-09/Socios6.zip",
+  "file_size": 49036563,
+  "last_modified": "2023-09-15T12:42:45",
+  "dataset": "socios",
+  "date_ref": "2023-09",
+  "partition": "6"
+ },
+ {
+  "name": "Socios7",
+  "extension": "zip",
+  "url": "https://arquivos.receitafederal.gov.br/dados/cnpj/dados_abertos_cnpj/2023-09/Socios7.zip",
+  "file_size": 49103969,
+  "last_modified": "2023-09-15T12:43:52",
+  "dataset": "socios",
+  "date_ref": "2023-09",
+  "partition": "7"
+ },
+ {
+  "name": "Socios8",
+  "extension": "zip",
+  "url": "https://arquivos.receitafederal.gov.br/dados/cnpj/dados_abertos_cnpj/2023-09/Socios8.zip",
+  "file_size": 49281762,
+  "last_modified": "2023-09-15T12:45:05",
+  "dataset": "socios",
+  "date_ref": "2023-09",
+  "partition": "8"
+ },
+ {
+  "name": "Socios9",
+  "extension": "zip",
+  "url": "https://arquivos.receitafederal.gov.br/dados/cnpj/dados_abertos_cnpj/2023-09/Socios9.zip",
+  "file_size": 49245474,
+  "last_modified": "2023-09-15T12:46:20",
+  "dataset": "socios",
+  "date_ref": "2023-09",
+  "partition": "9"
+ },
+ {
+  "name": "Socios0",
+  "extension": "zip",
+  "url": "https://arquivos.receitafederal.gov.br/dados/cnpj/dados_abertos_cnpj/2023-10/Socios0.zip",
+  "file_size": 125832520,
+  "last_modified": "2023-10-18T21:09:04",
+  "dataset": "socios",
+  "date_ref": "2023-10",
+  "partition": "0"
+ },
+ {
+  "name": "Socios1",
+  "extension": "zip",
+  "url": "https://arquivos.receitafederal.gov.br/dados/cnpj/dados_abertos_cnpj/2023-10/Socios1.zip",
+  "file_size": 49347931,
+  "last_modified": "2023-10-18T21:10:03",
+  "dataset": "socios",
+  "date_ref": "2023-10",
+  "partition": "1"
+ },
+ {
+  "name": "Socios2",
+  "extension": "zip",
+  "url": "https://arquivos.receitafederal.gov.br/dados/cnpj/dados_abertos_cnpj/2023-10/Socios2.zip",
+  "file_size": 49256490,
+  "last_modified": "2023-10-18T21:10:42",
+  "dataset": "socios",
+  "date_ref": "2023-10",
+  "partition": "2"
+ },
+ {
+  "name": "Socios3",
+  "extension": "zip",
+  "url": "https://arquivos.receitafederal.gov.br/dados/cnpj/dados_abertos_cnpj/2023-10/Socios3.zip",
+  "file_size": 49070587,
+  "last_modified": "2023-10-18T21:11:29",
+  "dataset": "socios",
+  "date_ref": "2023-10",
+  "partition": "3"
+ },
+ {
+  "name": "Socios4",
+  "extension": "zip",
+  "url": "https://arquivos.receitafederal.gov.br/dados/cnpj/dados_abertos_cnpj/2023-10/Socios4.zip",
+  "file_size": 49211723,
+  "last_modified": "2023-10-18T21:11:26",
+  "dataset": "socios",
+  "date_ref": "2023-10",
+  "partition": "4"
+ },
+ {
+  "name": "Socios5",
+  "extension": "zip",
+  "url": "https://arquivos.receitafederal.gov.br/dados/cnpj/dados_abertos_cnpj/2023-10/Socios5.zip",
+  "file_size": 49104785,
+  "last_modified": "2023-10-18T21:12:16",
+  "dataset": "socios",
+  "date_ref": "2023-10",
+  "partition": "5"
+ },
+ {
+  "name": "Socios6",
+  "extension": "zip",
+  "url": "https://arquivos.receitafederal.gov.br/dados/cnpj/dados_abertos_cnpj/2023-10/Socios6.zip",
+  "file_size": 49049720,
+  "last_modified": "2023-10-18T21:12:14",
+  "dataset": "socios",
+  "date_ref": "2023-10",
+  "partition": "6"
+ },
+ {
+  "name": "Socios7",
+  "extension": "zip",
+  "url": "https://arquivos.receitafederal.gov.br/dados/cnpj/dados_abertos_cnpj/2023-10/Socios7.zip",
+  "file_size": 49146659,
+  "last_modified": "2023-10-18T21:13:00",
+  "dataset": "socios",
+  "date_ref": "2023-10",
+  "partition": "7"
+ },
+ {
+  "name": "Socios8",
+  "extension": "zip",
+  "url": "https://arquivos.receitafederal.gov.br/dados/cnpj/dados_abertos_cnpj/2023-10/Socios8.zip",
+  "file_size": 49357796,
+  "last_modified": "2023-10-18T21:13:07",
+  "dataset": "socios",
+  "date_ref": "2023-10",
+  "partition": "8"
+ },
+ {
+  "name": "Socios9",
+  "extension": "zip",
+  "url": "https://arquivos.receitafederal.gov.br/dados/cnpj/dados_abertos_cnpj/2023-10/Socios9.zip",
+  "file_size": 49215178,
+  "last_modified": "2023-10-18T21:13:39",
+  "dataset": "socios",
+  "date_ref": "2023-10",
+  "partition": "9"
+ },
+ {
+  "name": "Socios0",
+  "extension": "zip",
+  "url": "https://arquivos.receitafederal.gov.br/dados/cnpj/dados_abertos_cnpj/2023-11/Socios0.zip",
+  "file_size": 128429571,
+  "last_modified": "2023-11-16T14:19:20",
+  "dataset": "socios",
+  "date_ref": "2023-11",
+  "partition": "0"
+ },
+ {
+  "name": "Socios1",
+  "extension": "zip",
+  "url": "https://arquivos.receitafederal.gov.br/dados/cnpj/dados_abertos_cnpj/2023-11/Socios1.zip",
+  "file_size": 49354511,
+  "last_modified": "2023-11-16T14:17:34",
+  "dataset": "socios",
+  "date_ref": "2023-11",
+  "partition": "1"
+ },
+ {
+  "name": "Socios2",
+  "extension": "zip",
+  "url": "https://arquivos.receitafederal.gov.br/dados/cnpj/dados_abertos_cnpj/2023-11/Socios2.zip",
+  "file_size": 49247322,
+  "last_modified": "2023-11-16T14:18:59",
+  "dataset": "socios",
+  "date_ref": "2023-11",
+  "partition": "2"
+ },
+ {
+  "name": "Socios3",
+  "extension": "zip",
+  "url": "https://arquivos.receitafederal.gov.br/dados/cnpj/dados_abertos_cnpj/2023-11/Socios3.zip",
+  "file_size": 49044606,
+  "last_modified": "2023-11-16T14:20:22",
+  "dataset": "socios",
+  "date_ref": "2023-11",
+  "partition": "3"
+ },
+ {
+  "name": "Socios4",
+  "extension": "zip",
+  "url": "https://arquivos.receitafederal.gov.br/dados/cnpj/dados_abertos_cnpj/2023-11/Socios4.zip",
+  "file_size": 49235482,
+  "last_modified": "2023-11-16T14:20:36",
+  "dataset": "socios",
+  "date_ref": "2023-11",
+  "partition": "4"
+ },
+ {
+  "name": "Socios5",
+  "extension": "zip",
+  "url": "https://arquivos.receitafederal.gov.br/dados/cnpj/dados_abertos_cnpj/2023-11/Socios5.zip",
+  "file_size": 49089734,
+  "last_modified": "2023-11-16T14:21:51",
+  "dataset": "socios",
+  "date_ref": "2023-11",
+  "partition": "5"
+ },
+ {
+  "name": "Socios6",
+  "extension": "zip",
+  "url": "https://arquivos.receitafederal.gov.br/dados/cnpj/dados_abertos_cnpj/2023-11/Socios6.zip",
+  "file_size": 49046400,
+  "last_modified": "2023-11-16T14:21:48",
+  "dataset": "socios",
+  "date_ref": "2023-11",
+  "partition": "6"
+ },
+ {
+  "name": "Socios7",
+  "extension": "zip",
+  "url": "https://arquivos.receitafederal.gov.br/dados/cnpj/dados_abertos_cnpj/2023-11/Socios7.zip",
+  "file_size": 49155992,
+  "last_modified": "2023-11-16T14:23:30",
+  "dataset": "socios",
+  "date_ref": "2023-11",
+  "partition": "7"
+ },
+ {
+  "name": "Socios8",
+  "extension": "zip",
+  "url": "https://arquivos.receitafederal.gov.br/dados/cnpj/dados_abertos_cnpj/2023-11/Socios8.zip",
+  "file_size": 49347604,
+  "last_modified": "2023-11-16T14:23:06",
+  "dataset": "socios",
+  "date_ref": "2023-11",
+  "partition": "8"
+ },
+ {
+  "name": "Socios9",
+  "extension": "zip",
+  "url": "https://arquivos.receitafederal.gov.br/dados/cnpj/dados_abertos_cnpj/2023-11/Socios9.zip",
+  "file_size": 49239440,
+  "last_modified": "2023-11-16T14:24:07",
+  "dataset": "socios",
+  "date_ref": "2023-11",
+  "partition": "9"
+ },
+ {
+  "name": "Socios0",
+  "extension": "zip",
+  "url": "https://arquivos.receitafederal.gov.br/dados/cnpj/dados_abertos_cnpj/2023-12/Socios0.zip",
+  "file_size": 130654022,
+  "last_modified": "2023-12-11T21:16:07",
+  "dataset": "socios",
+  "date_ref": "2023-12",
+  "partition": "0"
+ },
+ {
+  "name": "Socios1",
+  "extension": "zip",
+  "url": "https://arquivos.receitafederal.gov.br/dados/cnpj/dados_abertos_cnpj/2023-12/Socios1.zip",
+  "file_size": 49384250,
+  "last_modified": "2023-12-11T21:17:03",
+  "dataset": "socios",
+  "date_ref": "2023-12",
+  "partition": "1"
+ },
+ {
+  "name": "Socios2",
+  "extension": "zip",
+  "url": "https://arquivos.receitafederal.gov.br/dados/cnpj/dados_abertos_cnpj/2023-12/Socios2.zip",
+  "file_size": 49268139,
+  "last_modified": "2023-12-11T21:18:06",
+  "dataset": "socios",
+  "date_ref": "2023-12",
+  "partition": "2"
+ },
+ {
+  "name": "Socios3",
+  "extension": "zip",
+  "url": "https://arquivos.receitafederal.gov.br/dados/cnpj/dados_abertos_cnpj/2023-12/Socios3.zip",
+  "file_size": 49072145,
+  "last_modified": "2023-12-11T21:19:35",
+  "dataset": "socios",
+  "date_ref": "2023-12",
+  "partition": "3"
+ },
+ {
+  "name": "Socios4",
+  "extension": "zip",
+  "url": "https://arquivos.receitafederal.gov.br/dados/cnpj/dados_abertos_cnpj/2023-12/Socios4.zip",
+  "file_size": 49239206,
+  "last_modified": "2023-12-11T21:19:47",
+  "dataset": "socios",
+  "date_ref": "2023-12",
+  "partition": "4"
+ },
+ {
+  "name": "Socios5",
+  "extension": "zip",
+  "url": "https://arquivos.receitafederal.gov.br/dados/cnpj/dados_abertos_cnpj/2023-12/Socios5.zip",
+  "file_size": 49063774,
+  "last_modified": "2023-12-11T21:20:38",
+  "dataset": "socios",
+  "date_ref": "2023-12",
+  "partition": "5"
+ },
+ {
+  "name": "Socios6",
+  "extension": "zip",
+  "url": "https://arquivos.receitafederal.gov.br/dados/cnpj/dados_abertos_cnpj/2023-12/Socios6.zip",
+  "file_size": 49064372,
+  "last_modified": "2023-12-11T21:20:54",
+  "dataset": "socios",
+  "date_ref": "2023-12",
+  "partition": "6"
+ },
+ {
+  "name": "Socios7",
+  "extension": "zip",
+  "url": "https://arquivos.receitafederal.gov.br/dados/cnpj/dados_abertos_cnpj/2023-12/Socios7.zip",
+  "file_size": 49168601,
+  "last_modified": "2023-12-11T21:21:42",
+  "dataset": "socios",
+  "date_ref": "2023-12",
+  "partition": "7"
+ },
+ {
+  "name": "Socios8",
+  "extension": "zip",
+  "url": "https://arquivos.receitafederal.gov.br/dados/cnpj/dados_abertos_cnpj/2023-12/Socios8.zip",
+  "file_size": 49362981,
+  "last_modified": "2023-12-11T21:22:01",
+  "dataset": "socios",
+  "date_ref": "2023-12",
+  "partition": "8"
+ },
+ {
+  "name": "Socios9",
+  "extension": "zip",
+  "url": "https://arquivos.receitafederal.gov.br/dados/cnpj/dados_abertos_cnpj/2023-12/Socios9.zip",
+  "file_size": 49254942,
+  "last_modified": "2023-12-11T21:22:37",
+  "dataset": "socios",
+  "date_ref": "2023-12",
+  "partition": "9"
+ },
+ {
+  "name": "Socios0",
+  "extension": "zip",
+  "url": "https://arquivos.receitafederal.gov.br/dados/cnpj/dados_abertos_cnpj/2024-01/Socios0.zip",
+  "file_size": 133325839,
+  "last_modified": "2024-01-16T13:08:40",
+  "dataset": "socios",
+  "date_ref": "2024-01",
+  "partition": "0"
+ },
+ {
+  "name": "Socios1",
+  "extension": "zip",
+  "url": "https://arquivos.receitafederal.gov.br/dados/cnpj/dados_abertos_cnpj/2024-01/Socios1.zip",
+  "file_size": 49380608,
+  "last_modified": "2024-01-16T13:10:36",
+  "dataset": "socios",
+  "date_ref": "2024-01",
+  "partition": "1"
+ },
+ {
+  "name": "Socios2",
+  "extension": "zip",
+  "url": "https://arquivos.receitafederal.gov.br/dados/cnpj/dados_abertos_cnpj/2024-01/Socios2.zip",
+  "file_size": 49206004,
+  "last_modified": "2024-01-16T13:10:43",
+  "dataset": "socios",
+  "date_ref": "2024-01",
+  "partition": "2"
+ },
+ {
+  "name": "Socios3",
+  "extension": "zip",
+  "url": "https://arquivos.receitafederal.gov.br/dados/cnpj/dados_abertos_cnpj/2024-01/Socios3.zip",
+  "file_size": 49076373,
+  "last_modified": "2024-01-16T13:11:21",
+  "dataset": "socios",
+  "date_ref": "2024-01",
+  "partition": "3"
+ },
+ {
+  "name": "Socios4",
+  "extension": "zip",
+  "url": "https://arquivos.receitafederal.gov.br/dados/cnpj/dados_abertos_cnpj/2024-01/Socios4.zip",
+  "file_size": 49272499,
+  "last_modified": "2024-01-16T13:11:13",
+  "dataset": "socios",
+  "date_ref": "2024-01",
+  "partition": "4"
+ },
+ {
+  "name": "Socios5",
+  "extension": "zip",
+  "url": "https://arquivos.receitafederal.gov.br/dados/cnpj/dados_abertos_cnpj/2024-01/Socios5.zip",
+  "file_size": 49040210,
+  "last_modified": "2024-01-16T13:11:51",
+  "dataset": "socios",
+  "date_ref": "2024-01",
+  "partition": "5"
+ },
+ {
+  "name": "Socios6",
+  "extension": "zip",
+  "url": "https://arquivos.receitafederal.gov.br/dados/cnpj/dados_abertos_cnpj/2024-01/Socios6.zip",
+  "file_size": 49069056,
+  "last_modified": "2024-01-16T13:11:57",
+  "dataset": "socios",
+  "date_ref": "2024-01",
+  "partition": "6"
+ },
+ {
+  "name": "Socios7",
+  "extension": "zip",
+  "url": "https://arquivos.receitafederal.gov.br/dados/cnpj/dados_abertos_cnpj/2024-01/Socios7.zip",
+  "file_size": 49244644,
+  "last_modified": "2024-01-16T13:09:16",
+  "dataset": "socios",
+  "date_ref": "2024-01",
+  "partition": "7"
+ },
+ {
+  "name": "Socios8",
+  "extension": "zip",
+  "url": "https://arquivos.receitafederal.gov.br/dados/cnpj/dados_abertos_cnpj/2024-01/Socios8.zip",
+  "file_size": 49328224,
+  "last_modified": "2024-01-16T13:09:58",
+  "dataset": "socios",
+  "date_ref": "2024-01",
+  "partition": "8"
+ },
+ {
+  "name": "Socios9",
+  "extension": "zip",
+  "url": "https://arquivos.receitafederal.gov.br/dados/cnpj/dados_abertos_cnpj/2024-01/Socios9.zip",
+  "file_size": 49102675,
+  "last_modified": "2024-01-16T13:10:08",
+  "dataset": "socios",
+  "date_ref": "2024-01",
+  "partition": "9"
+ },
+ {
+  "name": "Socios0",
+  "extension": "zip",
+  "url": "https://arquivos.receitafederal.gov.br/dados/cnpj/dados_abertos_cnpj/2024-02/Socios0.zip",
+  "file_size": 136102870,
+  "last_modified": "2024-02-16T18:02:47",
+  "dataset": "socios",
+  "date_ref": "2024-02",
+  "partition": "0"
+ },
+ {
+  "name": "Socios1",
+  "extension": "zip",
+  "url": "https://arquivos.receitafederal.gov.br/dados/cnpj/dados_abertos_cnpj/2024-02/Socios1.zip",
+  "file_size": 49381211,
+  "last_modified": "2024-02-16T18:04:06",
+  "dataset": "socios",
+  "date_ref": "2024-02",
+  "partition": "1"
+ },
+ {
+  "name": "Socios2",
+  "extension": "zip",
+  "url": "https://arquivos.receitafederal.gov.br/dados/cnpj/dados_abertos_cnpj/2024-02/Socios2.zip",
+  "file_size": 49214048,
+  "last_modified": "2024-02-16T18:05:25",
+  "dataset": "socios",
+  "date_ref": "2024-02",
+  "partition": "2"
+ },
+ {
+  "name": "Socios3",
+  "extension": "zip",
+  "url": "https://arquivos.receitafederal.gov.br/dados/cnpj/dados_abertos_cnpj/2024-02/Socios3.zip",
+  "file_size": 49090750,
+  "last_modified": "2024-02-16T18:06:41",
+  "dataset": "socios",
+  "date_ref": "2024-02",
+  "partition": "3"
+ },
+ {
+  "name": "Socios4",
+  "extension": "zip",
+  "url": "https://arquivos.receitafederal.gov.br/dados/cnpj/dados_abertos_cnpj/2024-02/Socios4.zip",
+  "file_size": 49309343,
+  "last_modified": "2024-02-16T18:06:35",
+  "dataset": "socios",
+  "date_ref": "2024-02",
+  "partition": "4"
+ },
+ {
+  "name": "Socios5",
+  "extension": "zip",
+  "url": "https://arquivos.receitafederal.gov.br/dados/cnpj/dados_abertos_cnpj/2024-02/Socios5.zip",
+  "file_size": 48969519,
+  "last_modified": "2024-02-16T18:07:40",
+  "dataset": "socios",
+  "date_ref": "2024-02",
+  "partition": "5"
+ },
+ {
+  "name": "Socios6",
+  "extension": "zip",
+  "url": "https://arquivos.receitafederal.gov.br/dados/cnpj/dados_abertos_cnpj/2024-02/Socios6.zip",
+  "file_size": 49079001,
+  "last_modified": "2024-02-16T18:08:04",
+  "dataset": "socios",
+  "date_ref": "2024-02",
+  "partition": "6"
+ },
+ {
+  "name": "Socios7",
+  "extension": "zip",
+  "url": "https://arquivos.receitafederal.gov.br/dados/cnpj/dados_abertos_cnpj/2024-02/Socios7.zip",
+  "file_size": 49304698,
+  "last_modified": "2024-02-16T18:09:08",
+  "dataset": "socios",
+  "date_ref": "2024-02",
+  "partition": "7"
+ },
+ {
+  "name": "Socios8",
+  "extension": "zip",
+  "url": "https://arquivos.receitafederal.gov.br/dados/cnpj/dados_abertos_cnpj/2024-02/Socios8.zip",
+  "file_size": 49297973,
+  "last_modified": "2024-02-16T18:09:13",
+  "dataset": "socios",
+  "date_ref": "2024-02",
+  "partition": "8"
+ },
+ {
+  "name": "Socios9",
+  "extension": "zip",
+  "url": "https://arquivos.receitafederal.gov.br/dados/cnpj/dados_abertos_cnpj/2024-02/Socios9.zip",
+  "file_size": 49098446,
+  "last_modified": "2024-02-16T18:10:10",
+  "dataset": "socios",
+  "date_ref": "2024-02",
+  "partition": "9"
+ },
+ {
+  "name": "Socios0",
+  "extension": "zip",
+  "url": "https://arquivos.receitafederal.gov.br/dados/cnpj/dados_abertos_cnpj/2024-03/Socios0.zip",
+  "file_size": 138953017,
+  "last_modified": "2024-03-15T11:51:35",
+  "dataset": "socios",
+  "date_ref": "2024-03",
+  "partition": "0"
+ },
+ {
+  "name": "Socios1",
+  "extension": "zip",
+  "url": "https://arquivos.receitafederal.gov.br/dados/cnpj/dados_abertos_cnpj/2024-03/Socios1.zip",
+  "file_size": 49389091,
+  "last_modified": "2024-03-15T11:53:55",
+  "dataset": "socios",
+  "date_ref": "2024-03",
+  "partition": "1"
+ },
+ {
+  "name": "Socios2",
+  "extension": "zip",
+  "url": "https://arquivos.receitafederal.gov.br/dados/cnpj/dados_abertos_cnpj/2024-03/Socios2.zip",
+  "file_size": 49198274,
+  "last_modified": "2024-03-15T11:54:30",
+  "dataset": "socios",
+  "date_ref": "2024-03",
+  "partition": "2"
+ },
+ {
+  "name": "Socios3",
+  "extension": "zip",
+  "url": "https://arquivos.receitafederal.gov.br/dados/cnpj/dados_abertos_cnpj/2024-03/Socios3.zip",
+  "file_size": 49118159,
+  "last_modified": "2024-03-15T11:55:02",
+  "dataset": "socios",
+  "date_ref": "2024-03",
+  "partition": "3"
+ },
+ {
+  "name": "Socios4",
+  "extension": "zip",
+  "url": "https://arquivos.receitafederal.gov.br/dados/cnpj/dados_abertos_cnpj/2024-03/Socios4.zip",
+  "file_size": 49246422,
+  "last_modified": "2024-03-15T11:55:44",
+  "dataset": "socios",
+  "date_ref": "2024-03",
+  "partition": "4"
+ },
+ {
+  "name": "Socios5",
+  "extension": "zip",
+  "url": "https://arquivos.receitafederal.gov.br/dados/cnpj/dados_abertos_cnpj/2024-03/Socios5.zip",
+  "file_size": 49016418,
+  "last_modified": "2024-03-15T11:56:09",
+  "dataset": "socios",
+  "date_ref": "2024-03",
+  "partition": "5"
+ },
+ {
+  "name": "Socios6",
+  "extension": "zip",
+  "url": "https://arquivos.receitafederal.gov.br/dados/cnpj/dados_abertos_cnpj/2024-03/Socios6.zip",
+  "file_size": 49106284,
+  "last_modified": "2024-03-15T11:56:51",
+  "dataset": "socios",
+  "date_ref": "2024-03",
+  "partition": "6"
+ },
+ {
+  "name": "Socios7",
+  "extension": "zip",
+  "url": "https://arquivos.receitafederal.gov.br/dados/cnpj/dados_abertos_cnpj/2024-03/Socios7.zip",
+  "file_size": 49384161,
+  "last_modified": "2024-03-15T11:57:19",
+  "dataset": "socios",
+  "date_ref": "2024-03",
+  "partition": "7"
+ },
+ {
+  "name": "Socios8",
+  "extension": "zip",
+  "url": "https://arquivos.receitafederal.gov.br/dados/cnpj/dados_abertos_cnpj/2024-03/Socios8.zip",
+  "file_size": 49229509,
+  "last_modified": "2024-03-15T11:57:54",
+  "dataset": "socios",
+  "date_ref": "2024-03",
+  "partition": "8"
+ },
+ {
+  "name": "Socios9",
+  "extension": "zip",
+  "url": "https://arquivos.receitafederal.gov.br/dados/cnpj/dados_abertos_cnpj/2024-03/Socios9.zip",
+  "file_size": 49097853,
+  "last_modified": "2024-03-15T11:52:35",
+  "dataset": "socios",
+  "date_ref": "2024-03",
+  "partition": "9"
+ },
+ {
+  "name": "Socios0",
+  "extension": "zip",
+  "url": "https://arquivos.receitafederal.gov.br/dados/cnpj/dados_abertos_cnpj/2024-04/Socios0.zip",
+  "file_size": 142517939,
+  "last_modified": "2024-04-17T12:56:46",
+  "dataset": "socios",
+  "date_ref": "2024-04",
+  "partition": "0"
+ },
+ {
+  "name": "Socios1",
+  "extension": "zip",
+  "url": "https://arquivos.receitafederal.gov.br/dados/cnpj/dados_abertos_cnpj/2024-04/Socios1.zip",
+  "file_size": 49394317,
+  "last_modified": "2024-04-17T13:00:25",
+  "dataset": "socios",
+  "date_ref": "2024-04",
+  "partition": "1"
+ },
+ {
+  "name": "Socios2",
+  "extension": "zip",
+  "url": "https://arquivos.receitafederal.gov.br/dados/cnpj/dados_abertos_cnpj/2024-04/Socios2.zip",
+  "file_size": 49152404,
+  "last_modified": "2024-04-17T13:00:05",
+  "dataset": "socios",
+  "date_ref": "2024-04",
+  "partition": "2"
+ },
+ {
+  "name": "Socios3",
+  "extension": "zip",
+  "url": "https://arquivos.receitafederal.gov.br/dados/cnpj/dados_abertos_cnpj/2024-04/Socios3.zip",
+  "file_size": 49160660,
+  "last_modified": "2024-04-17T13:01:43",
+  "dataset": "socios",
+  "date_ref": "2024-04",
+  "partition": "3"
+ },
+ {
+  "name": "Socios4",
+  "extension": "zip",
+  "url": "https://arquivos.receitafederal.gov.br/dados/cnpj/dados_abertos_cnpj/2024-04/Socios4.zip",
+  "file_size": 49205774,
+  "last_modified": "2024-04-17T13:01:45",
+  "dataset": "socios",
+  "date_ref": "2024-04",
+  "partition": "4"
+ },
+ {
+  "name": "Socios5",
+  "extension": "zip",
+  "url": "https://arquivos.receitafederal.gov.br/dados/cnpj/dados_abertos_cnpj/2024-04/Socios5.zip",
+  "file_size": 49045238,
+  "last_modified": "2024-04-17T13:02:44",
+  "dataset": "socios",
+  "date_ref": "2024-04",
+  "partition": "5"
+ },
+ {
+  "name": "Socios6",
+  "extension": "zip",
+  "url": "https://arquivos.receitafederal.gov.br/dados/cnpj/dados_abertos_cnpj/2024-04/Socios6.zip",
+  "file_size": 49143674,
+  "last_modified": "2024-04-17T13:02:52",
+  "dataset": "socios",
+  "date_ref": "2024-04",
+  "partition": "6"
+ },
+ {
+  "name": "Socios7",
+  "extension": "zip",
+  "url": "https://arquivos.receitafederal.gov.br/dados/cnpj/dados_abertos_cnpj/2024-04/Socios7.zip",
+  "file_size": 49434797,
+  "last_modified": "2024-04-17T13:03:58",
+  "dataset": "socios",
+  "date_ref": "2024-04",
+  "partition": "7"
+ },
+ {
+  "name": "Socios8",
+  "extension": "zip",
+  "url": "https://arquivos.receitafederal.gov.br/dados/cnpj/dados_abertos_cnpj/2024-04/Socios8.zip",
+  "file_size": 49208201,
+  "last_modified": "2024-04-17T12:57:50",
+  "dataset": "socios",
+  "date_ref": "2024-04",
+  "partition": "8"
+ },
+ {
+  "name": "Socios9",
+  "extension": "zip",
+  "url": "https://arquivos.receitafederal.gov.br/dados/cnpj/dados_abertos_cnpj/2024-04/Socios9.zip",
+  "file_size": 49085273,
+  "last_modified": "2024-04-17T12:59:02",
+  "dataset": "socios",
+  "date_ref": "2024-04",
+  "partition": "9"
+ },
+ {
+  "name": "Socios0",
+  "extension": "zip",
+  "url": "https://arquivos.receitafederal.gov.br/dados/cnpj/dados_abertos_cnpj/2024-05/Socios0.zip",
+  "file_size": 145449992,
+  "last_modified": "2024-10-18T23:53:49",
+  "dataset": "socios",
+  "date_ref": "2024-05",
+  "partition": "0"
+ },
+ {
+  "name": "Socios1",
+  "extension": "zip",
+  "url": "https://arquivos.receitafederal.gov.br/dados/cnpj/dados_abertos_cnpj/2024-05/Socios1.zip",
+  "file_size": 49431513,
+  "last_modified": "2024-10-18T23:53:10",
+  "dataset": "socios",
+  "date_ref": "2024-05",
+  "partition": "1"
+ },
+ {
+  "name": "Socios2",
+  "extension": "zip",
+  "url": "https://arquivos.receitafederal.gov.br/dados/cnpj/dados_abertos_cnpj/2024-05/Socios2.zip",
+  "file_size": 49134369,
+  "last_modified": "2024-10-18T23:53:08",
+  "dataset": "socios",
+  "date_ref": "2024-05",
+  "partition": "2"
+ },
+ {
+  "name": "Socios3",
+  "extension": "zip",
+  "url": "https://arquivos.receitafederal.gov.br/dados/cnpj/dados_abertos_cnpj/2024-05/Socios3.zip",
+  "file_size": 49186452,
+  "last_modified": "2024-10-18T23:53:12",
+  "dataset": "socios",
+  "date_ref": "2024-05",
+  "partition": "3"
+ },
+ {
+  "name": "Socios4",
+  "extension": "zip",
+  "url": "https://arquivos.receitafederal.gov.br/dados/cnpj/dados_abertos_cnpj/2024-05/Socios4.zip",
+  "file_size": 49195443,
+  "last_modified": "2024-10-18T23:53:07",
+  "dataset": "socios",
+  "date_ref": "2024-05",
+  "partition": "4"
+ },
+ {
+  "name": "Socios5",
+  "extension": "zip",
+  "url": "https://arquivos.receitafederal.gov.br/dados/cnpj/dados_abertos_cnpj/2024-05/Socios5.zip",
+  "file_size": 49041418,
+  "last_modified": "2024-10-18T23:53:25",
+  "dataset": "socios",
+  "date_ref": "2024-05",
+  "partition": "5"
+ },
+ {
+  "name": "Socios6",
+  "extension": "zip",
+  "url": "https://arquivos.receitafederal.gov.br/dados/cnpj/dados_abertos_cnpj/2024-05/Socios6.zip",
+  "file_size": 49152267,
+  "last_modified": "2024-10-18T23:53:37",
+  "dataset": "socios",
+  "date_ref": "2024-05",
+  "partition": "6"
+ },
+ {
+  "name": "Socios7",
+  "extension": "zip",
+  "url": "https://arquivos.receitafederal.gov.br/dados/cnpj/dados_abertos_cnpj/2024-05/Socios7.zip",
+  "file_size": 49412654,
+  "last_modified": "2024-10-18T23:53:35",
+  "dataset": "socios",
+  "date_ref": "2024-05",
+  "partition": "7"
+ },
+ {
+  "name": "Socios8",
+  "extension": "zip",
+  "url": "https://arquivos.receitafederal.gov.br/dados/cnpj/dados_abertos_cnpj/2024-05/Socios8.zip",
+  "file_size": 49215187,
+  "last_modified": "2024-10-18T23:53:40",
+  "dataset": "socios",
+  "date_ref": "2024-05",
+  "partition": "8"
+ },
+ {
+  "name": "Socios9",
+  "extension": "zip",
+  "url": "https://arquivos.receitafederal.gov.br/dados/cnpj/dados_abertos_cnpj/2024-05/Socios9.zip",
+  "file_size": 49091548,
+  "last_modified": "2024-10-18T23:53:43",
+  "dataset": "socios",
+  "date_ref": "2024-05",
+  "partition": "9"
+ },
+ {
+  "name": "Socios0",
+  "extension": "zip",
+  "url": "https://arquivos.receitafederal.gov.br/dados/cnpj/dados_abertos_cnpj/2024-06/Socios0.zip",
+  "file_size": 147923733,
+  "last_modified": "2024-10-19T01:33:50",
+  "dataset": "socios",
+  "date_ref": "2024-06",
+  "partition": "0"
+ },
+ {
+  "name": "Socios1",
+  "extension": "zip",
+  "url": "https://arquivos.receitafederal.gov.br/dados/cnpj/dados_abertos_cnpj/2024-06/Socios1.zip",
+  "file_size": 49419108,
+  "last_modified": "2024-10-19T01:33:00",
+  "dataset": "socios",
+  "date_ref": "2024-06",
+  "partition": "1"
+ },
+ {
+  "name": "Socios2",
+  "extension": "zip",
+  "url": "https://arquivos.receitafederal.gov.br/dados/cnpj/dados_abertos_cnpj/2024-06/Socios2.zip",
+  "file_size": 49128371,
+  "last_modified": "2024-10-19T01:33:05",
+  "dataset": "socios",
+  "date_ref": "2024-06",
+  "partition": "2"
+ },
+ {
+  "name": "Socios3",
+  "extension": "zip",
+  "url": "https://arquivos.receitafederal.gov.br/dados/cnpj/dados_abertos_cnpj/2024-06/Socios3.zip",
+  "file_size": 49196016,
+  "last_modified": "2024-10-19T01:33:12",
+  "dataset": "socios",
+  "date_ref": "2024-06",
+  "partition": "3"
+ },
+ {
+  "name": "Socios4",
+  "extension": "zip",
+  "url": "https://arquivos.receitafederal.gov.br/dados/cnpj/dados_abertos_cnpj/2024-06/Socios4.zip",
+  "file_size": 49215957,
+  "last_modified": "2024-10-19T01:33:09",
+  "dataset": "socios",
+  "date_ref": "2024-06",
+  "partition": "4"
+ },
+ {
+  "name": "Socios5",
+  "extension": "zip",
+  "url": "https://arquivos.receitafederal.gov.br/dados/cnpj/dados_abertos_cnpj/2024-06/Socios5.zip",
+  "file_size": 49041024,
+  "last_modified": "2024-10-19T01:33:16",
+  "dataset": "socios",
+  "date_ref": "2024-06",
+  "partition": "5"
+ },
+ {
+  "name": "Socios6",
+  "extension": "zip",
+  "url": "https://arquivos.receitafederal.gov.br/dados/cnpj/dados_abertos_cnpj/2024-06/Socios6.zip",
+  "file_size": 49169832,
+  "last_modified": "2024-10-19T01:33:21",
+  "dataset": "socios",
+  "date_ref": "2024-06",
+  "partition": "6"
+ },
+ {
+  "name": "Socios7",
+  "extension": "zip",
+  "url": "https://arquivos.receitafederal.gov.br/dados/cnpj/dados_abertos_cnpj/2024-06/Socios7.zip",
+  "file_size": 49407336,
+  "last_modified": "2024-10-19T01:33:33",
+  "dataset": "socios",
+  "date_ref": "2024-06",
+  "partition": "7"
+ },
+ {
+  "name": "Socios8",
+  "extension": "zip",
+  "url": "https://arquivos.receitafederal.gov.br/dados/cnpj/dados_abertos_cnpj/2024-06/Socios8.zip",
+  "file_size": 49103126,
+  "last_modified": "2024-10-19T01:33:30",
+  "dataset": "socios",
+  "date_ref": "2024-06",
+  "partition": "8"
+ },
+ {
+  "name": "Socios9",
+  "extension": "zip",
+  "url": "https://arquivos.receitafederal.gov.br/dados/cnpj/dados_abertos_cnpj/2024-06/Socios9.zip",
+  "file_size": 49196161,
+  "last_modified": "2024-10-19T01:33:34",
+  "dataset": "socios",
+  "date_ref": "2024-06",
+  "partition": "9"
+ },
+ {
+  "name": "Socios0",
+  "extension": "zip",
+  "url": "https://arquivos.receitafederal.gov.br/dados/cnpj/dados_abertos_cnpj/2024-07/Socios0.zip",
+  "file_size": 151634500,
+  "last_modified": "2024-10-19T06:58:27",
+  "dataset": "socios",
+  "date_ref": "2024-07",
+  "partition": "0"
+ },
+ {
+  "name": "Socios1",
+  "extension": "zip",
+  "url": "https://arquivos.receitafederal.gov.br/dados/cnpj/dados_abertos_cnpj/2024-07/Socios1.zip",
+  "file_size": 49435451,
+  "last_modified": "2024-10-19T06:57:36",
+  "dataset": "socios",
+  "date_ref": "2024-07",
+  "partition": "1"
+ },
+ {
+  "name": "Socios2",
+  "extension": "zip",
+  "url": "https://arquivos.receitafederal.gov.br/dados/cnpj/dados_abertos_cnpj/2024-07/Socios2.zip",
+  "file_size": 49109022,
+  "last_modified": "2024-10-19T06:57:51",
+  "dataset": "socios",
+  "date_ref": "2024-07",
+  "partition": "2"
+ },
+ {
+  "name": "Socios3",
+  "extension": "zip",
+  "url": "https://arquivos.receitafederal.gov.br/dados/cnpj/dados_abertos_cnpj/2024-07/Socios3.zip",
+  "file_size": 49199139,
+  "last_modified": "2024-10-19T06:58:00",
+  "dataset": "socios",
+  "date_ref": "2024-07",
+  "partition": "3"
+ },
+ {
+  "name": "Socios4",
+  "extension": "zip",
+  "url": "https://arquivos.receitafederal.gov.br/dados/cnpj/dados_abertos_cnpj/2024-07/Socios4.zip",
+  "file_size": 49177383,
+  "last_modified": "2024-10-19T06:58:02",
+  "dataset": "socios",
+  "date_ref": "2024-07",
+  "partition": "4"
+ },
+ {
+  "name": "Socios5",
+  "extension": "zip",
+  "url": "https://arquivos.receitafederal.gov.br/dados/cnpj/dados_abertos_cnpj/2024-07/Socios5.zip",
+  "file_size": 49043841,
+  "last_modified": "2024-10-19T06:58:04",
+  "dataset": "socios",
+  "date_ref": "2024-07",
+  "partition": "5"
+ },
+ {
+  "name": "Socios6",
+  "extension": "zip",
+  "url": "https://arquivos.receitafederal.gov.br/dados/cnpj/dados_abertos_cnpj/2024-07/Socios6.zip",
+  "file_size": 49296287,
+  "last_modified": "2024-10-19T06:58:06",
+  "dataset": "socios",
+  "date_ref": "2024-07",
+  "partition": "6"
+ },
+ {
+  "name": "Socios7",
+  "extension": "zip",
+  "url": "https://arquivos.receitafederal.gov.br/dados/cnpj/dados_abertos_cnpj/2024-07/Socios7.zip",
+  "file_size": 49328691,
+  "last_modified": "2024-10-19T06:58:14",
+  "dataset": "socios",
+  "date_ref": "2024-07",
+  "partition": "7"
+ },
+ {
+  "name": "Socios8",
+  "extension": "zip",
+  "url": "https://arquivos.receitafederal.gov.br/dados/cnpj/dados_abertos_cnpj/2024-07/Socios8.zip",
+  "file_size": 49107868,
+  "last_modified": "2024-10-19T06:58:18",
+  "dataset": "socios",
+  "date_ref": "2024-07",
+  "partition": "8"
+ },
+ {
+  "name": "Socios9",
+  "extension": "zip",
+  "url": "https://arquivos.receitafederal.gov.br/dados/cnpj/dados_abertos_cnpj/2024-07/Socios9.zip",
+  "file_size": 49235908,
+  "last_modified": "2024-10-19T06:58:26",
+  "dataset": "socios",
+  "date_ref": "2024-07",
+  "partition": "9"
+ },
+ {
+  "name": "Socios0",
+  "extension": "zip",
+  "url": "https://arquivos.receitafederal.gov.br/dados/cnpj/dados_abertos_cnpj/2024-08/Socios0.zip",
+  "file_size": 154584661,
+  "last_modified": "2024-10-07T15:56:40",
+  "dataset": "socios",
+  "date_ref": "2024-08",
+  "partition": "0"
+ },
+ {
+  "name": "Socios1",
+  "extension": "zip",
+  "url": "https://arquivos.receitafederal.gov.br/dados/cnpj/dados_abertos_cnpj/2024-08/Socios1.zip",
+  "file_size": 49440222,
+  "last_modified": "2024-10-07T15:56:30",
+  "dataset": "socios",
+  "date_ref": "2024-08",
+  "partition": "1"
+ },
+ {
+  "name": "Socios2",
+  "extension": "zip",
+  "url": "https://arquivos.receitafederal.gov.br/dados/cnpj/dados_abertos_cnpj/2024-08/Socios2.zip",
+  "file_size": 49102501,
+  "last_modified": "2024-10-07T15:56:43",
+  "dataset": "socios",
+  "date_ref": "2024-08",
+  "partition": "2"
+ },
+ {
+  "name": "Socios3",
+  "extension": "zip",
+  "url": "https://arquivos.receitafederal.gov.br/dados/cnpj/dados_abertos_cnpj/2024-08/Socios3.zip",
+  "file_size": 49224676,
+  "last_modified": "2024-10-07T15:56:53",
+  "dataset": "socios",
+  "date_ref": "2024-08",
+  "partition": "3"
+ },
+ {
+  "name": "Socios4",
+  "extension": "zip",
+  "url": "https://arquivos.receitafederal.gov.br/dados/cnpj/dados_abertos_cnpj/2024-08/Socios4.zip",
+  "file_size": 49149106,
+  "last_modified": "2024-10-07T15:56:55",
+  "dataset": "socios",
+  "date_ref": "2024-08",
+  "partition": "4"
+ },
+ {
+  "name": "Socios5",
+  "extension": "zip",
+  "url": "https://arquivos.receitafederal.gov.br/dados/cnpj/dados_abertos_cnpj/2024-08/Socios5.zip",
+  "file_size": 49084474,
+  "last_modified": "2024-10-07T15:57:04",
+  "dataset": "socios",
+  "date_ref": "2024-08",
+  "partition": "5"
+ },
+ {
+  "name": "Socios6",
+  "extension": "zip",
+  "url": "https://arquivos.receitafederal.gov.br/dados/cnpj/dados_abertos_cnpj/2024-08/Socios6.zip",
+  "file_size": 49367317,
+  "last_modified": "2024-10-07T15:57:07",
+  "dataset": "socios",
+  "date_ref": "2024-08",
+  "partition": "6"
+ },
+ {
+  "name": "Socios7",
+  "extension": "zip",
+  "url": "https://arquivos.receitafederal.gov.br/dados/cnpj/dados_abertos_cnpj/2024-08/Socios7.zip",
+  "file_size": 49315548,
+  "last_modified": "2024-10-07T15:57:16",
+  "dataset": "socios",
+  "date_ref": "2024-08",
+  "partition": "7"
+ },
+ {
+  "name": "Socios8",
+  "extension": "zip",
+  "url": "https://arquivos.receitafederal.gov.br/dados/cnpj/dados_abertos_cnpj/2024-08/Socios8.zip",
+  "file_size": 49074864,
+  "last_modified": "2024-10-07T15:57:18",
+  "dataset": "socios",
+  "date_ref": "2024-08",
+  "partition": "8"
+ },
+ {
+  "name": "Socios9",
+  "extension": "zip",
+  "url": "https://arquivos.receitafederal.gov.br/dados/cnpj/dados_abertos_cnpj/2024-08/Socios9.zip",
+  "file_size": 49247458,
+  "last_modified": "2024-10-07T15:57:27",
+  "dataset": "socios",
+  "date_ref": "2024-08",
+  "partition": "9"
+ },
+ {
+  "name": "Socios0",
+  "extension": "zip",
+  "url": "https://arquivos.receitafederal.gov.br/dados/cnpj/dados_abertos_cnpj/2024-09/Socios0.zip",
+  "file_size": 154584661,
+  "last_modified": "2024-10-19T22:39:29",
+  "dataset": "socios",
+  "date_ref": "2024-09",
+  "partition": "0"
+ },
+ {
+  "name": "Socios1",
+  "extension": "zip",
+  "url": "https://arquivos.receitafederal.gov.br/dados/cnpj/dados_abertos_cnpj/2024-09/Socios1.zip",
+  "file_size": 49435399,
+  "last_modified": "2024-10-03T23:58:10",
+  "dataset": "socios",
+  "date_ref": "2024-09",
+  "partition": "1"
+ },
+ {
+  "name": "Socios2",
+  "extension": "zip",
+  "url": "https://arquivos.receitafederal.gov.br/dados/cnpj/dados_abertos_cnpj/2024-09/Socios2.zip",
+  "file_size": 49098519,
+  "last_modified": "2024-10-04T00:22:20",
+  "dataset": "socios",
+  "date_ref": "2024-09",
+  "partition": "2"
+ },
+ {
+  "name": "Socios3",
+  "extension": "zip",
+  "url": "https://arquivos.receitafederal.gov.br/dados/cnpj/dados_abertos_cnpj/2024-09/Socios3.zip",
+  "file_size": 49249951,
+  "last_modified": "2024-10-04T00:11:41",
+  "dataset": "socios",
+  "date_ref": "2024-09",
+  "partition": "3"
+ },
+ {
+  "name": "Socios4",
+  "extension": "zip",
+  "url": "https://arquivos.receitafederal.gov.br/dados/cnpj/dados_abertos_cnpj/2024-09/Socios4.zip",
+  "file_size": 49091243,
+  "last_modified": "2024-10-04T00:11:42",
+  "dataset": "socios",
+  "date_ref": "2024-09",
+  "partition": "4"
+ },
+ {
+  "name": "Socios5",
+  "extension": "zip",
+  "url": "https://arquivos.receitafederal.gov.br/dados/cnpj/dados_abertos_cnpj/2024-09/Socios5.zip",
+  "file_size": 49095264,
+  "last_modified": "2024-10-04T00:11:54",
+  "dataset": "socios",
+  "date_ref": "2024-09",
+  "partition": "5"
+ },
+ {
+  "name": "Socios6",
+  "extension": "zip",
+  "url": "https://arquivos.receitafederal.gov.br/dados/cnpj/dados_abertos_cnpj/2024-09/Socios6.zip",
+  "file_size": 49433378,
+  "last_modified": "2024-10-04T00:11:54",
+  "dataset": "socios",
+  "date_ref": "2024-09",
+  "partition": "6"
+ },
+ {
+  "name": "Socios7",
+  "extension": "zip",
+  "url": "https://arquivos.receitafederal.gov.br/dados/cnpj/dados_abertos_cnpj/2024-09/Socios7.zip",
+  "file_size": 49244186,
+  "last_modified": "2024-10-04T00:12:05",
+  "dataset": "socios",
+  "date_ref": "2024-09",
+  "partition": "7"
+ },
+ {
+  "name": "Socios8",
+  "extension": "zip",
+  "url": "https://arquivos.receitafederal.gov.br/dados/cnpj/dados_abertos_cnpj/2024-09/Socios8.zip",
+  "file_size": 49074675,
+  "last_modified": "2024-10-04T00:12:05",
+  "dataset": "socios",
+  "date_ref": "2024-09",
+  "partition": "8"
+ },
+ {
+  "name": "Socios9",
+  "extension": "zip",
+  "url": "https://arquivos.receitafederal.gov.br/dados/cnpj/dados_abertos_cnpj/2024-09/Socios9.zip",
+  "file_size": 49253102,
+  "last_modified": "2024-10-04T00:12:17",
+  "dataset": "socios",
+  "date_ref": "2024-09",
+  "partition": "9"
+ },
+ {
+  "name": "Socios0",
+  "extension": "zip",
+  "url": "https://arquivos.receitafederal.gov.br/dados/cnpj/dados_abertos_cnpj/2024-10/Socios0.zip",
+  "file_size": 161555544,
+  "last_modified": "2024-10-19T20:11:39",
+  "dataset": "socios",
+  "date_ref": "2024-10",
+  "partition": "0"
+ },
+ {
+  "name": "Socios1",
+  "extension": "zip",
+  "url": "https://arquivos.receitafederal.gov.br/dados/cnpj/dados_abertos_cnpj/2024-10/Socios1.zip",
+  "file_size": 49465293,
+  "last_modified": "2024-10-19T20:10:45",
+  "dataset": "socios",
+  "date_ref": "2024-10",
+  "partition": "1"
+ },
+ {
+  "name": "Socios2",
+  "extension": "zip",
+  "url": "https://arquivos.receitafederal.gov.br/dados/cnpj/dados_abertos_cnpj/2024-10/Socios2.zip",
+  "file_size": 49127243,
+  "last_modified": "2024-10-19T20:11:05",
+  "dataset": "socios",
+  "date_ref": "2024-10",
+  "partition": "2"
+ },
+ {
+  "name": "Socios3",
+  "extension": "zip",
+  "url": "https://arquivos.receitafederal.gov.br/dados/cnpj/dados_abertos_cnpj/2024-10/Socios3.zip",
+  "file_size": 49262906,
+  "last_modified": "2024-10-19T20:11:13",
+  "dataset": "socios",
+  "date_ref": "2024-10",
+  "partition": "3"
+ },
+ {
+  "name": "Socios4",
+  "extension": "zip",
+  "url": "https://arquivos.receitafederal.gov.br/dados/cnpj/dados_abertos_cnpj/2024-10/Socios4.zip",
+  "file_size": 49091264,
+  "last_modified": "2024-10-19T20:11:22",
+  "dataset": "socios",
+  "date_ref": "2024-10",
+  "partition": "4"
+ },
+ {
+  "name": "Socios5",
+  "extension": "zip",
+  "url": "https://arquivos.receitafederal.gov.br/dados/cnpj/dados_abertos_cnpj/2024-10/Socios5.zip",
+  "file_size": 49090043,
+  "last_modified": "2024-10-19T20:11:21",
+  "dataset": "socios",
+  "date_ref": "2024-10",
+  "partition": "5"
+ },
+ {
+  "name": "Socios6",
+  "extension": "zip",
+  "url": "https://arquivos.receitafederal.gov.br/dados/cnpj/dados_abertos_cnpj/2024-10/Socios6.zip",
+  "file_size": 49480093,
+  "last_modified": "2024-10-19T20:11:23",
+  "dataset": "socios",
+  "date_ref": "2024-10",
+  "partition": "6"
+ },
+ {
+  "name": "Socios7",
+  "extension": "zip",
+  "url": "https://arquivos.receitafederal.gov.br/dados/cnpj/dados_abertos_cnpj/2024-10/Socios7.zip",
+  "file_size": 49232825,
+  "last_modified": "2024-10-19T20:11:19",
+  "dataset": "socios",
+  "date_ref": "2024-10",
+  "partition": "7"
+ },
+ {
+  "name": "Socios8",
+  "extension": "zip",
+  "url": "https://arquivos.receitafederal.gov.br/dados/cnpj/dados_abertos_cnpj/2024-10/Socios8.zip",
+  "file_size": 49088200,
+  "last_modified": "2024-10-19T20:11:31",
+  "dataset": "socios",
+  "date_ref": "2024-10",
+  "partition": "8"
+ },
+ {
+  "name": "Socios9",
+  "extension": "zip",
+  "url": "https://arquivos.receitafederal.gov.br/dados/cnpj/dados_abertos_cnpj/2024-10/Socios9.zip",
+  "file_size": 49200173,
+  "last_modified": "2024-10-19T20:11:34",
+  "dataset": "socios",
+  "date_ref": "2024-10",
+  "partition": "9"
+ },
+ {
+  "name": "Socios0",
+  "extension": "zip",
+  "url": "https://arquivos.receitafederal.gov.br/dados/cnpj/dados_abertos_cnpj/2024-11/Socios0.zip",
+  "file_size": 164666984,
+  "last_modified": "2024-11-13T19:19:04",
+  "dataset": "socios",
+  "date_ref": "2024-11",
+  "partition": "0"
+ },
+ {
+  "name": "Socios1",
+  "extension": "zip",
+  "url": "https://arquivos.receitafederal.gov.br/dados/cnpj/dados_abertos_cnpj/2024-11/Socios1.zip",
+  "file_size": 49465608,
+  "last_modified": "2024-11-13T19:18:27",
+  "dataset": "socios",
+  "date_ref": "2024-11",
+  "partition": "1"
+ },
+ {
+  "name": "Socios2",
+  "extension": "zip",
+  "url": "https://arquivos.receitafederal.gov.br/dados/cnpj/dados_abertos_cnpj/2024-11/Socios2.zip",
+  "file_size": 49115342,
+  "last_modified": "2024-11-13T19:18:36",
+  "dataset": "socios",
+  "date_ref": "2024-11",
+  "partition": "2"
+ },
+ {
+  "name": "Socios3",
+  "extension": "zip",
+  "url": "https://arquivos.receitafederal.gov.br/dados/cnpj/dados_abertos_cnpj/2024-11/Socios3.zip",
+  "file_size": 49253275,
+  "last_modified": "2024-11-13T19:18:38",
+  "dataset": "socios",
+  "date_ref": "2024-11",
+  "partition": "3"
+ },
+ {
+  "name": "Socios4",
+  "extension": "zip",
+  "url": "https://arquivos.receitafederal.gov.br/dados/cnpj/dados_abertos_cnpj/2024-11/Socios4.zip",
+  "file_size": 49072064,
+  "last_modified": "2024-11-13T19:18:34",
+  "dataset": "socios",
+  "date_ref": "2024-11",
+  "partition": "4"
+ },
+ {
+  "name": "Socios5",
+  "extension": "zip",
+  "url": "https://arquivos.receitafederal.gov.br/dados/cnpj/dados_abertos_cnpj/2024-11/Socios5.zip",
+  "file_size": 49110244,
+  "last_modified": "2024-11-13T19:18:12",
+  "dataset": "socios",
+  "date_ref": "2024-11",
+  "partition": "5"
+ },
+ {
+  "name": "Socios6",
+  "extension": "zip",
+  "url": "https://arquivos.receitafederal.gov.br/dados/cnpj/dados_abertos_cnpj/2024-11/Socios6.zip",
+  "file_size": 49509129,
+  "last_modified": "2024-11-13T19:18:37",
+  "dataset": "socios",
+  "date_ref": "2024-11",
+  "partition": "6"
+ },
+ {
+  "name": "Socios7",
+  "extension": "zip",
+  "url": "https://arquivos.receitafederal.gov.br/dados/cnpj/dados_abertos_cnpj/2024-11/Socios7.zip",
+  "file_size": 49156208,
+  "last_modified": "2024-11-13T19:18:26",
+  "dataset": "socios",
+  "date_ref": "2024-11",
+  "partition": "7"
+ },
+ {
+  "name": "Socios8",
+  "extension": "zip",
+  "url": "https://arquivos.receitafederal.gov.br/dados/cnpj/dados_abertos_cnpj/2024-11/Socios8.zip",
+  "file_size": 49120206,
+  "last_modified": "2024-11-13T19:18:38",
+  "dataset": "socios",
+  "date_ref": "2024-11",
+  "partition": "8"
+ },
+ {
+  "name": "Socios9",
+  "extension": "zip",
+  "url": "https://arquivos.receitafederal.gov.br/dados/cnpj/dados_abertos_cnpj/2024-11/Socios9.zip",
+  "file_size": 49146217,
+  "last_modified": "2024-11-13T19:18:40",
+  "dataset": "socios",
+  "date_ref": "2024-11",
+  "partition": "9"
+ }
+]

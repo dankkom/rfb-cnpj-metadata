@@ -1,0 +1,1902 @@
+[
+ {
+  "name": "Empresas0",
+  "extension": "zip",
+  "url": "https://arquivos.receitafederal.gov.br/dados/cnpj/dados_abertos_cnpj/2023-05/Empresas0.zip",
+  "file_size": 263675156,
+  "last_modified": "2023-05-16T18:10:20",
+  "dataset": "empresas",
+  "date_ref": "2023-05",
+  "partition": "0"
+ },
+ {
+  "name": "Empresas1",
+  "extension": "zip",
+  "url": "https://arquivos.receitafederal.gov.br/dados/cnpj/dados_abertos_cnpj/2023-05/Empresas1.zip",
+  "file_size": 77691580,
+  "last_modified": "2023-05-16T18:00:57",
+  "dataset": "empresas",
+  "date_ref": "2023-05",
+  "partition": "1"
+ },
+ {
+  "name": "Empresas2",
+  "extension": "zip",
+  "url": "https://arquivos.receitafederal.gov.br/dados/cnpj/dados_abertos_cnpj/2023-05/Empresas2.zip",
+  "file_size": 78944454,
+  "last_modified": "2023-05-16T17:59:40",
+  "dataset": "empresas",
+  "date_ref": "2023-05",
+  "partition": "2"
+ },
+ {
+  "name": "Empresas3",
+  "extension": "zip",
+  "url": "https://arquivos.receitafederal.gov.br/dados/cnpj/dados_abertos_cnpj/2023-05/Empresas3.zip",
+  "file_size": 85170412,
+  "last_modified": "2023-05-16T17:59:46",
+  "dataset": "empresas",
+  "date_ref": "2023-05",
+  "partition": "3"
+ },
+ {
+  "name": "Empresas4",
+  "extension": "zip",
+  "url": "https://arquivos.receitafederal.gov.br/dados/cnpj/dados_abertos_cnpj/2023-05/Empresas4.zip",
+  "file_size": 90517903,
+  "last_modified": "2023-05-16T18:04:41",
+  "dataset": "empresas",
+  "date_ref": "2023-05",
+  "partition": "4"
+ },
+ {
+  "name": "Empresas5",
+  "extension": "zip",
+  "url": "https://arquivos.receitafederal.gov.br/dados/cnpj/dados_abertos_cnpj/2023-05/Empresas5.zip",
+  "file_size": 97834619,
+  "last_modified": "2023-05-16T18:04:09",
+  "dataset": "empresas",
+  "date_ref": "2023-05",
+  "partition": "5"
+ },
+ {
+  "name": "Empresas6",
+  "extension": "zip",
+  "url": "https://arquivos.receitafederal.gov.br/dados/cnpj/dados_abertos_cnpj/2023-05/Empresas6.zip",
+  "file_size": 94903942,
+  "last_modified": "2023-05-16T18:03:07",
+  "dataset": "empresas",
+  "date_ref": "2023-05",
+  "partition": "6"
+ },
+ {
+  "name": "Empresas7",
+  "extension": "zip",
+  "url": "https://arquivos.receitafederal.gov.br/dados/cnpj/dados_abertos_cnpj/2023-05/Empresas7.zip",
+  "file_size": 99748258,
+  "last_modified": "2023-05-16T18:02:36",
+  "dataset": "empresas",
+  "date_ref": "2023-05",
+  "partition": "7"
+ },
+ {
+  "name": "Empresas8",
+  "extension": "zip",
+  "url": "https://arquivos.receitafederal.gov.br/dados/cnpj/dados_abertos_cnpj/2023-05/Empresas8.zip",
+  "file_size": 100165462,
+  "last_modified": "2023-05-16T18:01:34",
+  "dataset": "empresas",
+  "date_ref": "2023-05",
+  "partition": "8"
+ },
+ {
+  "name": "Empresas9",
+  "extension": "zip",
+  "url": "https://arquivos.receitafederal.gov.br/dados/cnpj/dados_abertos_cnpj/2023-05/Empresas9.zip",
+  "file_size": 95705883,
+  "last_modified": "2023-05-16T18:06:13",
+  "dataset": "empresas",
+  "date_ref": "2023-05",
+  "partition": "9"
+ },
+ {
+  "name": "Empresas0",
+  "extension": "zip",
+  "url": "https://arquivos.receitafederal.gov.br/dados/cnpj/dados_abertos_cnpj/2023-06/Empresas0.zip",
+  "file_size": 269185734,
+  "last_modified": "2023-06-12T18:01:23",
+  "dataset": "empresas",
+  "date_ref": "2023-06",
+  "partition": "0"
+ },
+ {
+  "name": "Empresas1",
+  "extension": "zip",
+  "url": "https://arquivos.receitafederal.gov.br/dados/cnpj/dados_abertos_cnpj/2023-06/Empresas1.zip",
+  "file_size": 77695719,
+  "last_modified": "2023-06-12T17:52:11",
+  "dataset": "empresas",
+  "date_ref": "2023-06",
+  "partition": "1"
+ },
+ {
+  "name": "Empresas2",
+  "extension": "zip",
+  "url": "https://arquivos.receitafederal.gov.br/dados/cnpj/dados_abertos_cnpj/2023-06/Empresas2.zip",
+  "file_size": 78947552,
+  "last_modified": "2023-06-12T17:50:45",
+  "dataset": "empresas",
+  "date_ref": "2023-06",
+  "partition": "2"
+ },
+ {
+  "name": "Empresas3",
+  "extension": "zip",
+  "url": "https://arquivos.receitafederal.gov.br/dados/cnpj/dados_abertos_cnpj/2023-06/Empresas3.zip",
+  "file_size": 85167918,
+  "last_modified": "2023-06-12T17:50:52",
+  "dataset": "empresas",
+  "date_ref": "2023-06",
+  "partition": "3"
+ },
+ {
+  "name": "Empresas4",
+  "extension": "zip",
+  "url": "https://arquivos.receitafederal.gov.br/dados/cnpj/dados_abertos_cnpj/2023-06/Empresas4.zip",
+  "file_size": 90510849,
+  "last_modified": "2023-06-12T17:56:01",
+  "dataset": "empresas",
+  "date_ref": "2023-06",
+  "partition": "4"
+ },
+ {
+  "name": "Empresas5",
+  "extension": "zip",
+  "url": "https://arquivos.receitafederal.gov.br/dados/cnpj/dados_abertos_cnpj/2023-06/Empresas5.zip",
+  "file_size": 97822839,
+  "last_modified": "2023-06-12T17:55:51",
+  "dataset": "empresas",
+  "date_ref": "2023-06",
+  "partition": "5"
+ },
+ {
+  "name": "Empresas6",
+  "extension": "zip",
+  "url": "https://arquivos.receitafederal.gov.br/dados/cnpj/dados_abertos_cnpj/2023-06/Empresas6.zip",
+  "file_size": 94887229,
+  "last_modified": "2023-06-12T17:54:31",
+  "dataset": "empresas",
+  "date_ref": "2023-06",
+  "partition": "6"
+ },
+ {
+  "name": "Empresas7",
+  "extension": "zip",
+  "url": "https://arquivos.receitafederal.gov.br/dados/cnpj/dados_abertos_cnpj/2023-06/Empresas7.zip",
+  "file_size": 99723806,
+  "last_modified": "2023-06-12T17:54:03",
+  "dataset": "empresas",
+  "date_ref": "2023-06",
+  "partition": "7"
+ },
+ {
+  "name": "Empresas8",
+  "extension": "zip",
+  "url": "https://arquivos.receitafederal.gov.br/dados/cnpj/dados_abertos_cnpj/2023-06/Empresas8.zip",
+  "file_size": 100130978,
+  "last_modified": "2023-06-12T17:52:49",
+  "dataset": "empresas",
+  "date_ref": "2023-06",
+  "partition": "8"
+ },
+ {
+  "name": "Empresas9",
+  "extension": "zip",
+  "url": "https://arquivos.receitafederal.gov.br/dados/cnpj/dados_abertos_cnpj/2023-06/Empresas9.zip",
+  "file_size": 95669876,
+  "last_modified": "2023-06-12T17:57:32",
+  "dataset": "empresas",
+  "date_ref": "2023-06",
+  "partition": "9"
+ },
+ {
+  "name": "Empresas0",
+  "extension": "zip",
+  "url": "https://arquivos.receitafederal.gov.br/dados/cnpj/dados_abertos_cnpj/2023-07/Empresas0.zip",
+  "file_size": 274905400,
+  "last_modified": "2023-07-17T14:08:30",
+  "dataset": "empresas",
+  "date_ref": "2023-07",
+  "partition": "0"
+ },
+ {
+  "name": "Empresas1",
+  "extension": "zip",
+  "url": "https://arquivos.receitafederal.gov.br/dados/cnpj/dados_abertos_cnpj/2023-07/Empresas1.zip",
+  "file_size": 77700876,
+  "last_modified": "2023-07-17T14:08:06",
+  "dataset": "empresas",
+  "date_ref": "2023-07",
+  "partition": "1"
+ },
+ {
+  "name": "Empresas2",
+  "extension": "zip",
+  "url": "https://arquivos.receitafederal.gov.br/dados/cnpj/dados_abertos_cnpj/2023-07/Empresas2.zip",
+  "file_size": 78950737,
+  "last_modified": "2023-07-17T14:08:04",
+  "dataset": "empresas",
+  "date_ref": "2023-07",
+  "partition": "2"
+ },
+ {
+  "name": "Empresas3",
+  "extension": "zip",
+  "url": "https://arquivos.receitafederal.gov.br/dados/cnpj/dados_abertos_cnpj/2023-07/Empresas3.zip",
+  "file_size": 85165922,
+  "last_modified": "2023-07-17T14:08:05",
+  "dataset": "empresas",
+  "date_ref": "2023-07",
+  "partition": "3"
+ },
+ {
+  "name": "Empresas4",
+  "extension": "zip",
+  "url": "https://arquivos.receitafederal.gov.br/dados/cnpj/dados_abertos_cnpj/2023-07/Empresas4.zip",
+  "file_size": 90504466,
+  "last_modified": "2023-07-17T14:08:10",
+  "dataset": "empresas",
+  "date_ref": "2023-07",
+  "partition": "4"
+ },
+ {
+  "name": "Empresas5",
+  "extension": "zip",
+  "url": "https://arquivos.receitafederal.gov.br/dados/cnpj/dados_abertos_cnpj/2023-07/Empresas5.zip",
+  "file_size": 97810419,
+  "last_modified": "2023-07-17T14:08:10",
+  "dataset": "empresas",
+  "date_ref": "2023-07",
+  "partition": "5"
+ },
+ {
+  "name": "Empresas6",
+  "extension": "zip",
+  "url": "https://arquivos.receitafederal.gov.br/dados/cnpj/dados_abertos_cnpj/2023-07/Empresas6.zip",
+  "file_size": 94871594,
+  "last_modified": "2023-07-17T14:08:08",
+  "dataset": "empresas",
+  "date_ref": "2023-07",
+  "partition": "6"
+ },
+ {
+  "name": "Empresas7",
+  "extension": "zip",
+  "url": "https://arquivos.receitafederal.gov.br/dados/cnpj/dados_abertos_cnpj/2023-07/Empresas7.zip",
+  "file_size": 99700708,
+  "last_modified": "2023-07-17T14:08:08",
+  "dataset": "empresas",
+  "date_ref": "2023-07",
+  "partition": "7"
+ },
+ {
+  "name": "Empresas8",
+  "extension": "zip",
+  "url": "https://arquivos.receitafederal.gov.br/dados/cnpj/dados_abertos_cnpj/2023-07/Empresas8.zip",
+  "file_size": 100097245,
+  "last_modified": "2023-07-17T14:08:07",
+  "dataset": "empresas",
+  "date_ref": "2023-07",
+  "partition": "8"
+ },
+ {
+  "name": "Empresas9",
+  "extension": "zip",
+  "url": "https://arquivos.receitafederal.gov.br/dados/cnpj/dados_abertos_cnpj/2023-07/Empresas9.zip",
+  "file_size": 95634718,
+  "last_modified": "2023-07-17T14:08:15",
+  "dataset": "empresas",
+  "date_ref": "2023-07",
+  "partition": "9"
+ },
+ {
+  "name": "Empresas0",
+  "extension": "zip",
+  "url": "https://arquivos.receitafederal.gov.br/dados/cnpj/dados_abertos_cnpj/2023-08/Empresas0.zip",
+  "file_size": 282161919,
+  "last_modified": "2023-08-16T00:01:34",
+  "dataset": "empresas",
+  "date_ref": "2023-08",
+  "partition": "0"
+ },
+ {
+  "name": "Empresas1",
+  "extension": "zip",
+  "url": "https://arquivos.receitafederal.gov.br/dados/cnpj/dados_abertos_cnpj/2023-08/Empresas1.zip",
+  "file_size": 77708086,
+  "last_modified": "2023-08-15T22:20:51",
+  "dataset": "empresas",
+  "date_ref": "2023-08",
+  "partition": "1"
+ },
+ {
+  "name": "Empresas2",
+  "extension": "zip",
+  "url": "https://arquivos.receitafederal.gov.br/dados/cnpj/dados_abertos_cnpj/2023-08/Empresas2.zip",
+  "file_size": 78955187,
+  "last_modified": "2023-08-15T22:47:19",
+  "dataset": "empresas",
+  "date_ref": "2023-08",
+  "partition": "2"
+ },
+ {
+  "name": "Empresas3",
+  "extension": "zip",
+  "url": "https://arquivos.receitafederal.gov.br/dados/cnpj/dados_abertos_cnpj/2023-08/Empresas3.zip",
+  "file_size": 85163193,
+  "last_modified": "2023-08-15T22:46:17",
+  "dataset": "empresas",
+  "date_ref": "2023-08",
+  "partition": "3"
+ },
+ {
+  "name": "Empresas4",
+  "extension": "zip",
+  "url": "https://arquivos.receitafederal.gov.br/dados/cnpj/dados_abertos_cnpj/2023-08/Empresas4.zip",
+  "file_size": 90496296,
+  "last_modified": "2023-08-15T22:39:18",
+  "dataset": "empresas",
+  "date_ref": "2023-08",
+  "partition": "4"
+ },
+ {
+  "name": "Empresas5",
+  "extension": "zip",
+  "url": "https://arquivos.receitafederal.gov.br/dados/cnpj/dados_abertos_cnpj/2023-08/Empresas5.zip",
+  "file_size": 97795489,
+  "last_modified": "2023-08-15T22:30:40",
+  "dataset": "empresas",
+  "date_ref": "2023-08",
+  "partition": "5"
+ },
+ {
+  "name": "Empresas6",
+  "extension": "zip",
+  "url": "https://arquivos.receitafederal.gov.br/dados/cnpj/dados_abertos_cnpj/2023-08/Empresas6.zip",
+  "file_size": 94852297,
+  "last_modified": "2023-08-15T22:36:23",
+  "dataset": "empresas",
+  "date_ref": "2023-08",
+  "partition": "6"
+ },
+ {
+  "name": "Empresas7",
+  "extension": "zip",
+  "url": "https://arquivos.receitafederal.gov.br/dados/cnpj/dados_abertos_cnpj/2023-08/Empresas7.zip",
+  "file_size": 99672202,
+  "last_modified": "2023-08-15T23:13:43",
+  "dataset": "empresas",
+  "date_ref": "2023-08",
+  "partition": "7"
+ },
+ {
+  "name": "Empresas8",
+  "extension": "zip",
+  "url": "https://arquivos.receitafederal.gov.br/dados/cnpj/dados_abertos_cnpj/2023-08/Empresas8.zip",
+  "file_size": 100054279,
+  "last_modified": "2023-08-15T23:03:55",
+  "dataset": "empresas",
+  "date_ref": "2023-08",
+  "partition": "8"
+ },
+ {
+  "name": "Empresas9",
+  "extension": "zip",
+  "url": "https://arquivos.receitafederal.gov.br/dados/cnpj/dados_abertos_cnpj/2023-08/Empresas9.zip",
+  "file_size": 95591063,
+  "last_modified": "2023-08-15T22:54:40",
+  "dataset": "empresas",
+  "date_ref": "2023-08",
+  "partition": "9"
+ },
+ {
+  "name": "Empresas0",
+  "extension": "zip",
+  "url": "https://arquivos.receitafederal.gov.br/dados/cnpj/dados_abertos_cnpj/2023-09/Empresas0.zip",
+  "file_size": 287592503,
+  "last_modified": "2023-09-14T17:47:27",
+  "dataset": "empresas",
+  "date_ref": "2023-09",
+  "partition": "0"
+ },
+ {
+  "name": "Empresas1",
+  "extension": "zip",
+  "url": "https://arquivos.receitafederal.gov.br/dados/cnpj/dados_abertos_cnpj/2023-09/Empresas1.zip",
+  "file_size": 77713176,
+  "last_modified": "2023-09-14T17:36:55",
+  "dataset": "empresas",
+  "date_ref": "2023-09",
+  "partition": "1"
+ },
+ {
+  "name": "Empresas2",
+  "extension": "zip",
+  "url": "https://arquivos.receitafederal.gov.br/dados/cnpj/dados_abertos_cnpj/2023-09/Empresas2.zip",
+  "file_size": 78958934,
+  "last_modified": "2023-09-14T17:40:47",
+  "dataset": "empresas",
+  "date_ref": "2023-09",
+  "partition": "2"
+ },
+ {
+  "name": "Empresas3",
+  "extension": "zip",
+  "url": "https://arquivos.receitafederal.gov.br/dados/cnpj/dados_abertos_cnpj/2023-09/Empresas3.zip",
+  "file_size": 85161637,
+  "last_modified": "2023-09-14T17:45:01",
+  "dataset": "empresas",
+  "date_ref": "2023-09",
+  "partition": "3"
+ },
+ {
+  "name": "Empresas4",
+  "extension": "zip",
+  "url": "https://arquivos.receitafederal.gov.br/dados/cnpj/dados_abertos_cnpj/2023-09/Empresas4.zip",
+  "file_size": 90489360,
+  "last_modified": "2023-09-14T17:50:08",
+  "dataset": "empresas",
+  "date_ref": "2023-09",
+  "partition": "4"
+ },
+ {
+  "name": "Empresas5",
+  "extension": "zip",
+  "url": "https://arquivos.receitafederal.gov.br/dados/cnpj/dados_abertos_cnpj/2023-09/Empresas5.zip",
+  "file_size": 97782221,
+  "last_modified": "2023-09-14T17:52:41",
+  "dataset": "empresas",
+  "date_ref": "2023-09",
+  "partition": "5"
+ },
+ {
+  "name": "Empresas6",
+  "extension": "zip",
+  "url": "https://arquivos.receitafederal.gov.br/dados/cnpj/dados_abertos_cnpj/2023-09/Empresas6.zip",
+  "file_size": 94835491,
+  "last_modified": "2023-09-14T17:55:18",
+  "dataset": "empresas",
+  "date_ref": "2023-09",
+  "partition": "6"
+ },
+ {
+  "name": "Empresas7",
+  "extension": "zip",
+  "url": "https://arquivos.receitafederal.gov.br/dados/cnpj/dados_abertos_cnpj/2023-09/Empresas7.zip",
+  "file_size": 99646716,
+  "last_modified": "2023-09-14T17:58:06",
+  "dataset": "empresas",
+  "date_ref": "2023-09",
+  "partition": "7"
+ },
+ {
+  "name": "Empresas8",
+  "extension": "zip",
+  "url": "https://arquivos.receitafederal.gov.br/dados/cnpj/dados_abertos_cnpj/2023-09/Empresas8.zip",
+  "file_size": 100018063,
+  "last_modified": "2023-09-14T18:00:40",
+  "dataset": "empresas",
+  "date_ref": "2023-09",
+  "partition": "8"
+ },
+ {
+  "name": "Empresas9",
+  "extension": "zip",
+  "url": "https://arquivos.receitafederal.gov.br/dados/cnpj/dados_abertos_cnpj/2023-09/Empresas9.zip",
+  "file_size": 95553296,
+  "last_modified": "2023-09-14T18:03:20",
+  "dataset": "empresas",
+  "date_ref": "2023-09",
+  "partition": "9"
+ },
+ {
+  "name": "Empresas0",
+  "extension": "zip",
+  "url": "https://arquivos.receitafederal.gov.br/dados/cnpj/dados_abertos_cnpj/2023-10/Empresas0.zip",
+  "file_size": 294254435,
+  "last_modified": "2023-10-18T19:55:54",
+  "dataset": "empresas",
+  "date_ref": "2023-10",
+  "partition": "0"
+ },
+ {
+  "name": "Empresas1",
+  "extension": "zip",
+  "url": "https://arquivos.receitafederal.gov.br/dados/cnpj/dados_abertos_cnpj/2023-10/Empresas1.zip",
+  "file_size": 77719260,
+  "last_modified": "2023-10-18T19:52:15",
+  "dataset": "empresas",
+  "date_ref": "2023-10",
+  "partition": "1"
+ },
+ {
+  "name": "Empresas2",
+  "extension": "zip",
+  "url": "https://arquivos.receitafederal.gov.br/dados/cnpj/dados_abertos_cnpj/2023-10/Empresas2.zip",
+  "file_size": 78970761,
+  "last_modified": "2023-10-18T19:53:25",
+  "dataset": "empresas",
+  "date_ref": "2023-10",
+  "partition": "2"
+ },
+ {
+  "name": "Empresas3",
+  "extension": "zip",
+  "url": "https://arquivos.receitafederal.gov.br/dados/cnpj/dados_abertos_cnpj/2023-10/Empresas3.zip",
+  "file_size": 85158839,
+  "last_modified": "2023-10-18T19:54:41",
+  "dataset": "empresas",
+  "date_ref": "2023-10",
+  "partition": "3"
+ },
+ {
+  "name": "Empresas4",
+  "extension": "zip",
+  "url": "https://arquivos.receitafederal.gov.br/dados/cnpj/dados_abertos_cnpj/2023-10/Empresas4.zip",
+  "file_size": 90480763,
+  "last_modified": "2023-10-18T19:56:14",
+  "dataset": "empresas",
+  "date_ref": "2023-10",
+  "partition": "4"
+ },
+ {
+  "name": "Empresas5",
+  "extension": "zip",
+  "url": "https://arquivos.receitafederal.gov.br/dados/cnpj/dados_abertos_cnpj/2023-10/Empresas5.zip",
+  "file_size": 97766762,
+  "last_modified": "2023-10-18T19:57:31",
+  "dataset": "empresas",
+  "date_ref": "2023-10",
+  "partition": "5"
+ },
+ {
+  "name": "Empresas6",
+  "extension": "zip",
+  "url": "https://arquivos.receitafederal.gov.br/dados/cnpj/dados_abertos_cnpj/2023-10/Empresas6.zip",
+  "file_size": 94814974,
+  "last_modified": "2023-10-18T19:57:51",
+  "dataset": "empresas",
+  "date_ref": "2023-10",
+  "partition": "6"
+ },
+ {
+  "name": "Empresas7",
+  "extension": "zip",
+  "url": "https://arquivos.receitafederal.gov.br/dados/cnpj/dados_abertos_cnpj/2023-10/Empresas7.zip",
+  "file_size": 99614697,
+  "last_modified": "2023-10-18T19:59:14",
+  "dataset": "empresas",
+  "date_ref": "2023-10",
+  "partition": "7"
+ },
+ {
+  "name": "Empresas8",
+  "extension": "zip",
+  "url": "https://arquivos.receitafederal.gov.br/dados/cnpj/dados_abertos_cnpj/2023-10/Empresas8.zip",
+  "file_size": 99971993,
+  "last_modified": "2023-10-18T19:59:32",
+  "dataset": "empresas",
+  "date_ref": "2023-10",
+  "partition": "8"
+ },
+ {
+  "name": "Empresas9",
+  "extension": "zip",
+  "url": "https://arquivos.receitafederal.gov.br/dados/cnpj/dados_abertos_cnpj/2023-10/Empresas9.zip",
+  "file_size": 95505739,
+  "last_modified": "2023-10-18T20:00:52",
+  "dataset": "empresas",
+  "date_ref": "2023-10",
+  "partition": "9"
+ },
+ {
+  "name": "Empresas0",
+  "extension": "zip",
+  "url": "https://arquivos.receitafederal.gov.br/dados/cnpj/dados_abertos_cnpj/2023-11/Empresas0.zip",
+  "file_size": 299769254,
+  "last_modified": "2023-11-16T13:05:25",
+  "dataset": "empresas",
+  "date_ref": "2023-11",
+  "partition": "0"
+ },
+ {
+  "name": "Empresas1",
+  "extension": "zip",
+  "url": "https://arquivos.receitafederal.gov.br/dados/cnpj/dados_abertos_cnpj/2023-11/Empresas1.zip",
+  "file_size": 77724358,
+  "last_modified": "2023-11-16T12:58:28",
+  "dataset": "empresas",
+  "date_ref": "2023-11",
+  "partition": "1"
+ },
+ {
+  "name": "Empresas2",
+  "extension": "zip",
+  "url": "https://arquivos.receitafederal.gov.br/dados/cnpj/dados_abertos_cnpj/2023-11/Empresas2.zip",
+  "file_size": 78974519,
+  "last_modified": "2023-11-16T13:01:03",
+  "dataset": "empresas",
+  "date_ref": "2023-11",
+  "partition": "2"
+ },
+ {
+  "name": "Empresas3",
+  "extension": "zip",
+  "url": "https://arquivos.receitafederal.gov.br/dados/cnpj/dados_abertos_cnpj/2023-11/Empresas3.zip",
+  "file_size": 85157178,
+  "last_modified": "2023-11-16T13:03:10",
+  "dataset": "empresas",
+  "date_ref": "2023-11",
+  "partition": "3"
+ },
+ {
+  "name": "Empresas4",
+  "extension": "zip",
+  "url": "https://arquivos.receitafederal.gov.br/dados/cnpj/dados_abertos_cnpj/2023-11/Empresas4.zip",
+  "file_size": 90474944,
+  "last_modified": "2023-11-16T13:05:55",
+  "dataset": "empresas",
+  "date_ref": "2023-11",
+  "partition": "4"
+ },
+ {
+  "name": "Empresas5",
+  "extension": "zip",
+  "url": "https://arquivos.receitafederal.gov.br/dados/cnpj/dados_abertos_cnpj/2023-11/Empresas5.zip",
+  "file_size": 97755219,
+  "last_modified": "2023-11-16T13:07:54",
+  "dataset": "empresas",
+  "date_ref": "2023-11",
+  "partition": "5"
+ },
+ {
+  "name": "Empresas6",
+  "extension": "zip",
+  "url": "https://arquivos.receitafederal.gov.br/dados/cnpj/dados_abertos_cnpj/2023-11/Empresas6.zip",
+  "file_size": 94799541,
+  "last_modified": "2023-11-16T13:08:45",
+  "dataset": "empresas",
+  "date_ref": "2023-11",
+  "partition": "6"
+ },
+ {
+  "name": "Empresas7",
+  "extension": "zip",
+  "url": "https://arquivos.receitafederal.gov.br/dados/cnpj/dados_abertos_cnpj/2023-11/Empresas7.zip",
+  "file_size": 99591223,
+  "last_modified": "2023-11-16T13:11:03",
+  "dataset": "empresas",
+  "date_ref": "2023-11",
+  "partition": "7"
+ },
+ {
+  "name": "Empresas8",
+  "extension": "zip",
+  "url": "https://arquivos.receitafederal.gov.br/dados/cnpj/dados_abertos_cnpj/2023-11/Empresas8.zip",
+  "file_size": 99940182,
+  "last_modified": "2023-11-16T13:11:28",
+  "dataset": "empresas",
+  "date_ref": "2023-11",
+  "partition": "8"
+ },
+ {
+  "name": "Empresas9",
+  "extension": "zip",
+  "url": "https://arquivos.receitafederal.gov.br/dados/cnpj/dados_abertos_cnpj/2023-11/Empresas9.zip",
+  "file_size": 95471095,
+  "last_modified": "2023-11-16T13:14:08",
+  "dataset": "empresas",
+  "date_ref": "2023-11",
+  "partition": "9"
+ },
+ {
+  "name": "Empresas0",
+  "extension": "zip",
+  "url": "https://arquivos.receitafederal.gov.br/dados/cnpj/dados_abertos_cnpj/2023-12/Empresas0.zip",
+  "file_size": 304563559,
+  "last_modified": "2023-12-11T20:16:17",
+  "dataset": "empresas",
+  "date_ref": "2023-12",
+  "partition": "0"
+ },
+ {
+  "name": "Empresas1",
+  "extension": "zip",
+  "url": "https://arquivos.receitafederal.gov.br/dados/cnpj/dados_abertos_cnpj/2023-12/Empresas1.zip",
+  "file_size": 77729481,
+  "last_modified": "2023-12-11T20:11:17",
+  "dataset": "empresas",
+  "date_ref": "2023-12",
+  "partition": "1"
+ },
+ {
+  "name": "Empresas2",
+  "extension": "zip",
+  "url": "https://arquivos.receitafederal.gov.br/dados/cnpj/dados_abertos_cnpj/2023-12/Empresas2.zip",
+  "file_size": 78978639,
+  "last_modified": "2023-12-11T20:13:03",
+  "dataset": "empresas",
+  "date_ref": "2023-12",
+  "partition": "2"
+ },
+ {
+  "name": "Empresas3",
+  "extension": "zip",
+  "url": "https://arquivos.receitafederal.gov.br/dados/cnpj/dados_abertos_cnpj/2023-12/Empresas3.zip",
+  "file_size": 85155733,
+  "last_modified": "2023-12-11T20:14:54",
+  "dataset": "empresas",
+  "date_ref": "2023-12",
+  "partition": "3"
+ },
+ {
+  "name": "Empresas4",
+  "extension": "zip",
+  "url": "https://arquivos.receitafederal.gov.br/dados/cnpj/dados_abertos_cnpj/2023-12/Empresas4.zip",
+  "file_size": 90468596,
+  "last_modified": "2023-12-11T20:17:06",
+  "dataset": "empresas",
+  "date_ref": "2023-12",
+  "partition": "4"
+ },
+ {
+  "name": "Empresas5",
+  "extension": "zip",
+  "url": "https://arquivos.receitafederal.gov.br/dados/cnpj/dados_abertos_cnpj/2023-12/Empresas5.zip",
+  "file_size": 97744804,
+  "last_modified": "2023-12-11T20:18:38",
+  "dataset": "empresas",
+  "date_ref": "2023-12",
+  "partition": "5"
+ },
+ {
+  "name": "Empresas6",
+  "extension": "zip",
+  "url": "https://arquivos.receitafederal.gov.br/dados/cnpj/dados_abertos_cnpj/2023-12/Empresas6.zip",
+  "file_size": 94785012,
+  "last_modified": "2023-12-11T20:19:40",
+  "dataset": "empresas",
+  "date_ref": "2023-12",
+  "partition": "6"
+ },
+ {
+  "name": "Empresas7",
+  "extension": "zip",
+  "url": "https://arquivos.receitafederal.gov.br/dados/cnpj/dados_abertos_cnpj/2023-12/Empresas7.zip",
+  "file_size": 99569473,
+  "last_modified": "2023-12-11T20:20:54",
+  "dataset": "empresas",
+  "date_ref": "2023-12",
+  "partition": "7"
+ },
+ {
+  "name": "Empresas8",
+  "extension": "zip",
+  "url": "https://arquivos.receitafederal.gov.br/dados/cnpj/dados_abertos_cnpj/2023-12/Empresas8.zip",
+  "file_size": 99910114,
+  "last_modified": "2023-12-11T20:21:47",
+  "dataset": "empresas",
+  "date_ref": "2023-12",
+  "partition": "8"
+ },
+ {
+  "name": "Empresas9",
+  "extension": "zip",
+  "url": "https://arquivos.receitafederal.gov.br/dados/cnpj/dados_abertos_cnpj/2023-12/Empresas9.zip",
+  "file_size": 95439967,
+  "last_modified": "2023-12-11T20:23:08",
+  "dataset": "empresas",
+  "date_ref": "2023-12",
+  "partition": "9"
+ },
+ {
+  "name": "Empresas0",
+  "extension": "zip",
+  "url": "https://arquivos.receitafederal.gov.br/dados/cnpj/dados_abertos_cnpj/2024-01/Empresas0.zip",
+  "file_size": 309767947,
+  "last_modified": "2024-01-16T13:36:23",
+  "dataset": "empresas",
+  "date_ref": "2024-01",
+  "partition": "0"
+ },
+ {
+  "name": "Empresas1",
+  "extension": "zip",
+  "url": "https://arquivos.receitafederal.gov.br/dados/cnpj/dados_abertos_cnpj/2024-01/Empresas1.zip",
+  "file_size": 77729308,
+  "last_modified": "2024-01-16T14:06:25",
+  "dataset": "empresas",
+  "date_ref": "2024-01",
+  "partition": "1"
+ },
+ {
+  "name": "Empresas2",
+  "extension": "zip",
+  "url": "https://arquivos.receitafederal.gov.br/dados/cnpj/dados_abertos_cnpj/2024-01/Empresas2.zip",
+  "file_size": 78982135,
+  "last_modified": "2024-01-16T13:43:38",
+  "dataset": "empresas",
+  "date_ref": "2024-01",
+  "partition": "2"
+ },
+ {
+  "name": "Empresas3",
+  "extension": "zip",
+  "url": "https://arquivos.receitafederal.gov.br/dados/cnpj/dados_abertos_cnpj/2024-01/Empresas3.zip",
+  "file_size": 85156701,
+  "last_modified": "2024-01-16T13:43:53",
+  "dataset": "empresas",
+  "date_ref": "2024-01",
+  "partition": "3"
+ },
+ {
+  "name": "Empresas4",
+  "extension": "zip",
+  "url": "https://arquivos.receitafederal.gov.br/dados/cnpj/dados_abertos_cnpj/2024-01/Empresas4.zip",
+  "file_size": 90462786,
+  "last_modified": "2024-01-16T13:44:51",
+  "dataset": "empresas",
+  "date_ref": "2024-01",
+  "partition": "4"
+ },
+ {
+  "name": "Empresas5",
+  "extension": "zip",
+  "url": "https://arquivos.receitafederal.gov.br/dados/cnpj/dados_abertos_cnpj/2024-01/Empresas5.zip",
+  "file_size": 97735051,
+  "last_modified": "2024-01-16T13:44:58",
+  "dataset": "empresas",
+  "date_ref": "2024-01",
+  "partition": "5"
+ },
+ {
+  "name": "Empresas6",
+  "extension": "zip",
+  "url": "https://arquivos.receitafederal.gov.br/dados/cnpj/dados_abertos_cnpj/2024-01/Empresas6.zip",
+  "file_size": 94770025,
+  "last_modified": "2024-01-16T13:45:41",
+  "dataset": "empresas",
+  "date_ref": "2024-01",
+  "partition": "6"
+ },
+ {
+  "name": "Empresas7",
+  "extension": "zip",
+  "url": "https://arquivos.receitafederal.gov.br/dados/cnpj/dados_abertos_cnpj/2024-01/Empresas7.zip",
+  "file_size": 99547070,
+  "last_modified": "2024-01-16T13:37:35",
+  "dataset": "empresas",
+  "date_ref": "2024-01",
+  "partition": "7"
+ },
+ {
+  "name": "Empresas8",
+  "extension": "zip",
+  "url": "https://arquivos.receitafederal.gov.br/dados/cnpj/dados_abertos_cnpj/2024-01/Empresas8.zip",
+  "file_size": 99877819,
+  "last_modified": "2024-01-16T13:37:42",
+  "dataset": "empresas",
+  "date_ref": "2024-01",
+  "partition": "8"
+ },
+ {
+  "name": "Empresas9",
+  "extension": "zip",
+  "url": "https://arquivos.receitafederal.gov.br/dados/cnpj/dados_abertos_cnpj/2024-01/Empresas9.zip",
+  "file_size": 95408388,
+  "last_modified": "2024-01-16T13:38:52",
+  "dataset": "empresas",
+  "date_ref": "2024-01",
+  "partition": "9"
+ },
+ {
+  "name": "Empresas0",
+  "extension": "zip",
+  "url": "https://arquivos.receitafederal.gov.br/dados/cnpj/dados_abertos_cnpj/2024-02/Empresas0.zip",
+  "file_size": 316302812,
+  "last_modified": "2024-02-16T16:58:12",
+  "dataset": "empresas",
+  "date_ref": "2024-02",
+  "partition": "0"
+ },
+ {
+  "name": "Empresas1",
+  "extension": "zip",
+  "url": "https://arquivos.receitafederal.gov.br/dados/cnpj/dados_abertos_cnpj/2024-02/Empresas1.zip",
+  "file_size": 77739243,
+  "last_modified": "2024-02-16T16:52:00",
+  "dataset": "empresas",
+  "date_ref": "2024-02",
+  "partition": "1"
+ },
+ {
+  "name": "Empresas2",
+  "extension": "zip",
+  "url": "https://arquivos.receitafederal.gov.br/dados/cnpj/dados_abertos_cnpj/2024-02/Empresas2.zip",
+  "file_size": 78992062,
+  "last_modified": "2024-02-16T16:53:49",
+  "dataset": "empresas",
+  "date_ref": "2024-02",
+  "partition": "2"
+ },
+ {
+  "name": "Empresas3",
+  "extension": "zip",
+  "url": "https://arquivos.receitafederal.gov.br/dados/cnpj/dados_abertos_cnpj/2024-02/Empresas3.zip",
+  "file_size": 85157306,
+  "last_modified": "2024-02-16T16:55:56",
+  "dataset": "empresas",
+  "date_ref": "2024-02",
+  "partition": "3"
+ },
+ {
+  "name": "Empresas4",
+  "extension": "zip",
+  "url": "https://arquivos.receitafederal.gov.br/dados/cnpj/dados_abertos_cnpj/2024-02/Empresas4.zip",
+  "file_size": 90453732,
+  "last_modified": "2024-02-16T16:57:59",
+  "dataset": "empresas",
+  "date_ref": "2024-02",
+  "partition": "4"
+ },
+ {
+  "name": "Empresas5",
+  "extension": "zip",
+  "url": "https://arquivos.receitafederal.gov.br/dados/cnpj/dados_abertos_cnpj/2024-02/Empresas5.zip",
+  "file_size": 97718775,
+  "last_modified": "2024-02-16T17:00:17",
+  "dataset": "empresas",
+  "date_ref": "2024-02",
+  "partition": "5"
+ },
+ {
+  "name": "Empresas6",
+  "extension": "zip",
+  "url": "https://arquivos.receitafederal.gov.br/dados/cnpj/dados_abertos_cnpj/2024-02/Empresas6.zip",
+  "file_size": 94749203,
+  "last_modified": "2024-02-16T17:00:43",
+  "dataset": "empresas",
+  "date_ref": "2024-02",
+  "partition": "6"
+ },
+ {
+  "name": "Empresas7",
+  "extension": "zip",
+  "url": "https://arquivos.receitafederal.gov.br/dados/cnpj/dados_abertos_cnpj/2024-02/Empresas7.zip",
+  "file_size": 99515428,
+  "last_modified": "2024-02-16T17:02:44",
+  "dataset": "empresas",
+  "date_ref": "2024-02",
+  "partition": "7"
+ },
+ {
+  "name": "Empresas8",
+  "extension": "zip",
+  "url": "https://arquivos.receitafederal.gov.br/dados/cnpj/dados_abertos_cnpj/2024-02/Empresas8.zip",
+  "file_size": 99838731,
+  "last_modified": "2024-02-16T17:03:27",
+  "dataset": "empresas",
+  "date_ref": "2024-02",
+  "partition": "8"
+ },
+ {
+  "name": "Empresas9",
+  "extension": "zip",
+  "url": "https://arquivos.receitafederal.gov.br/dados/cnpj/dados_abertos_cnpj/2024-02/Empresas9.zip",
+  "file_size": 95367626,
+  "last_modified": "2024-02-16T17:05:22",
+  "dataset": "empresas",
+  "date_ref": "2024-02",
+  "partition": "9"
+ },
+ {
+  "name": "Empresas0",
+  "extension": "zip",
+  "url": "https://arquivos.receitafederal.gov.br/dados/cnpj/dados_abertos_cnpj/2024-03/Empresas0.zip",
+  "file_size": 322451378,
+  "last_modified": "2024-03-15T12:41:16",
+  "dataset": "empresas",
+  "date_ref": "2024-03",
+  "partition": "0"
+ },
+ {
+  "name": "Empresas1",
+  "extension": "zip",
+  "url": "https://arquivos.receitafederal.gov.br/dados/cnpj/dados_abertos_cnpj/2024-03/Empresas1.zip",
+  "file_size": 77744491,
+  "last_modified": "2024-03-15T12:57:15",
+  "dataset": "empresas",
+  "date_ref": "2024-03",
+  "partition": "1"
+ },
+ {
+  "name": "Empresas2",
+  "extension": "zip",
+  "url": "https://arquivos.receitafederal.gov.br/dados/cnpj/dados_abertos_cnpj/2024-03/Empresas2.zip",
+  "file_size": 78997144,
+  "last_modified": "2024-03-15T12:58:44",
+  "dataset": "empresas",
+  "date_ref": "2024-03",
+  "partition": "2"
+ },
+ {
+  "name": "Empresas3",
+  "extension": "zip",
+  "url": "https://arquivos.receitafederal.gov.br/dados/cnpj/dados_abertos_cnpj/2024-03/Empresas3.zip",
+  "file_size": 85155603,
+  "last_modified": "2024-03-15T12:59:01",
+  "dataset": "empresas",
+  "date_ref": "2024-03",
+  "partition": "3"
+ },
+ {
+  "name": "Empresas4",
+  "extension": "zip",
+  "url": "https://arquivos.receitafederal.gov.br/dados/cnpj/dados_abertos_cnpj/2024-03/Empresas4.zip",
+  "file_size": 90444700,
+  "last_modified": "2024-03-15T12:50:39",
+  "dataset": "empresas",
+  "date_ref": "2024-03",
+  "partition": "4"
+ },
+ {
+  "name": "Empresas5",
+  "extension": "zip",
+  "url": "https://arquivos.receitafederal.gov.br/dados/cnpj/dados_abertos_cnpj/2024-03/Empresas5.zip",
+  "file_size": 97705259,
+  "last_modified": "2024-03-15T12:52:49",
+  "dataset": "empresas",
+  "date_ref": "2024-03",
+  "partition": "5"
+ },
+ {
+  "name": "Empresas6",
+  "extension": "zip",
+  "url": "https://arquivos.receitafederal.gov.br/dados/cnpj/dados_abertos_cnpj/2024-03/Empresas6.zip",
+  "file_size": 94731567,
+  "last_modified": "2024-03-15T12:53:12",
+  "dataset": "empresas",
+  "date_ref": "2024-03",
+  "partition": "6"
+ },
+ {
+  "name": "Empresas7",
+  "extension": "zip",
+  "url": "https://arquivos.receitafederal.gov.br/dados/cnpj/dados_abertos_cnpj/2024-03/Empresas7.zip",
+  "file_size": 99490171,
+  "last_modified": "2024-03-15T12:55:04",
+  "dataset": "empresas",
+  "date_ref": "2024-03",
+  "partition": "7"
+ },
+ {
+  "name": "Empresas8",
+  "extension": "zip",
+  "url": "https://arquivos.receitafederal.gov.br/dados/cnpj/dados_abertos_cnpj/2024-03/Empresas8.zip",
+  "file_size": 99806347,
+  "last_modified": "2024-03-15T12:55:35",
+  "dataset": "empresas",
+  "date_ref": "2024-03",
+  "partition": "8"
+ },
+ {
+  "name": "Empresas9",
+  "extension": "zip",
+  "url": "https://arquivos.receitafederal.gov.br/dados/cnpj/dados_abertos_cnpj/2024-03/Empresas9.zip",
+  "file_size": 95335047,
+  "last_modified": "2024-03-15T12:57:04",
+  "dataset": "empresas",
+  "date_ref": "2024-03",
+  "partition": "9"
+ },
+ {
+  "name": "Empresas0",
+  "extension": "zip",
+  "url": "https://arquivos.receitafederal.gov.br/dados/cnpj/dados_abertos_cnpj/2024-04/Empresas0.zip",
+  "file_size": 330099081,
+  "last_modified": "2024-04-17T13:53:47",
+  "dataset": "empresas",
+  "date_ref": "2024-04",
+  "partition": "0"
+ },
+ {
+  "name": "Empresas1",
+  "extension": "zip",
+  "url": "https://arquivos.receitafederal.gov.br/dados/cnpj/dados_abertos_cnpj/2024-04/Empresas1.zip",
+  "file_size": 77750778,
+  "last_modified": "2024-04-17T14:07:31",
+  "dataset": "empresas",
+  "date_ref": "2024-04",
+  "partition": "1"
+ },
+ {
+  "name": "Empresas2",
+  "extension": "zip",
+  "url": "https://arquivos.receitafederal.gov.br/dados/cnpj/dados_abertos_cnpj/2024-04/Empresas2.zip",
+  "file_size": 79003116,
+  "last_modified": "2024-04-17T14:07:36",
+  "dataset": "empresas",
+  "date_ref": "2024-04",
+  "partition": "2"
+ },
+ {
+  "name": "Empresas3",
+  "extension": "zip",
+  "url": "https://arquivos.receitafederal.gov.br/dados/cnpj/dados_abertos_cnpj/2024-04/Empresas3.zip",
+  "file_size": 85153594,
+  "last_modified": "2024-04-17T13:59:14",
+  "dataset": "empresas",
+  "date_ref": "2024-04",
+  "partition": "3"
+ },
+ {
+  "name": "Empresas4",
+  "extension": "zip",
+  "url": "https://arquivos.receitafederal.gov.br/dados/cnpj/dados_abertos_cnpj/2024-04/Empresas4.zip",
+  "file_size": 90438338,
+  "last_modified": "2024-04-17T14:01:25",
+  "dataset": "empresas",
+  "date_ref": "2024-04",
+  "partition": "4"
+ },
+ {
+  "name": "Empresas5",
+  "extension": "zip",
+  "url": "https://arquivos.receitafederal.gov.br/dados/cnpj/dados_abertos_cnpj/2024-04/Empresas5.zip",
+  "file_size": 97691773,
+  "last_modified": "2024-04-17T14:03:38",
+  "dataset": "empresas",
+  "date_ref": "2024-04",
+  "partition": "5"
+ },
+ {
+  "name": "Empresas6",
+  "extension": "zip",
+  "url": "https://arquivos.receitafederal.gov.br/dados/cnpj/dados_abertos_cnpj/2024-04/Empresas6.zip",
+  "file_size": 94715159,
+  "last_modified": "2024-04-17T14:03:33",
+  "dataset": "empresas",
+  "date_ref": "2024-04",
+  "partition": "6"
+ },
+ {
+  "name": "Empresas7",
+  "extension": "zip",
+  "url": "https://arquivos.receitafederal.gov.br/dados/cnpj/dados_abertos_cnpj/2024-04/Empresas7.zip",
+  "file_size": 99463104,
+  "last_modified": "2024-04-17T14:05:52",
+  "dataset": "empresas",
+  "date_ref": "2024-04",
+  "partition": "7"
+ },
+ {
+  "name": "Empresas8",
+  "extension": "zip",
+  "url": "https://arquivos.receitafederal.gov.br/dados/cnpj/dados_abertos_cnpj/2024-04/Empresas8.zip",
+  "file_size": 99769807,
+  "last_modified": "2024-04-17T14:05:49",
+  "dataset": "empresas",
+  "date_ref": "2024-04",
+  "partition": "8"
+ },
+ {
+  "name": "Empresas9",
+  "extension": "zip",
+  "url": "https://arquivos.receitafederal.gov.br/dados/cnpj/dados_abertos_cnpj/2024-04/Empresas9.zip",
+  "file_size": 95296718,
+  "last_modified": "2024-04-17T13:49:10",
+  "dataset": "empresas",
+  "date_ref": "2024-04",
+  "partition": "9"
+ },
+ {
+  "name": "Empresas0",
+  "extension": "zip",
+  "url": "https://arquivos.receitafederal.gov.br/dados/cnpj/dados_abertos_cnpj/2024-05/Empresas0.zip",
+  "file_size": 336249661,
+  "last_modified": "2024-10-18T23:51:50",
+  "dataset": "empresas",
+  "date_ref": "2024-05",
+  "partition": "0"
+ },
+ {
+  "name": "Empresas1",
+  "extension": "zip",
+  "url": "https://arquivos.receitafederal.gov.br/dados/cnpj/dados_abertos_cnpj/2024-05/Empresas1.zip",
+  "file_size": 77757337,
+  "last_modified": "2024-10-18T23:47:52",
+  "dataset": "empresas",
+  "date_ref": "2024-05",
+  "partition": "1"
+ },
+ {
+  "name": "Empresas2",
+  "extension": "zip",
+  "url": "https://arquivos.receitafederal.gov.br/dados/cnpj/dados_abertos_cnpj/2024-05/Empresas2.zip",
+  "file_size": 79007491,
+  "last_modified": "2024-10-18T23:47:47",
+  "dataset": "empresas",
+  "date_ref": "2024-05",
+  "partition": "2"
+ },
+ {
+  "name": "Empresas3",
+  "extension": "zip",
+  "url": "https://arquivos.receitafederal.gov.br/dados/cnpj/dados_abertos_cnpj/2024-05/Empresas3.zip",
+  "file_size": 85151681,
+  "last_modified": "2024-10-18T23:47:58",
+  "dataset": "empresas",
+  "date_ref": "2024-05",
+  "partition": "3"
+ },
+ {
+  "name": "Empresas4",
+  "extension": "zip",
+  "url": "https://arquivos.receitafederal.gov.br/dados/cnpj/dados_abertos_cnpj/2024-05/Empresas4.zip",
+  "file_size": 90431635,
+  "last_modified": "2024-10-18T23:48:09",
+  "dataset": "empresas",
+  "date_ref": "2024-05",
+  "partition": "4"
+ },
+ {
+  "name": "Empresas5",
+  "extension": "zip",
+  "url": "https://arquivos.receitafederal.gov.br/dados/cnpj/dados_abertos_cnpj/2024-05/Empresas5.zip",
+  "file_size": 97679062,
+  "last_modified": "2024-10-18T23:48:09",
+  "dataset": "empresas",
+  "date_ref": "2024-05",
+  "partition": "5"
+ },
+ {
+  "name": "Empresas6",
+  "extension": "zip",
+  "url": "https://arquivos.receitafederal.gov.br/dados/cnpj/dados_abertos_cnpj/2024-05/Empresas6.zip",
+  "file_size": 94699064,
+  "last_modified": "2024-10-18T23:48:06",
+  "dataset": "empresas",
+  "date_ref": "2024-05",
+  "partition": "6"
+ },
+ {
+  "name": "Empresas7",
+  "extension": "zip",
+  "url": "https://arquivos.receitafederal.gov.br/dados/cnpj/dados_abertos_cnpj/2024-05/Empresas7.zip",
+  "file_size": 99435437,
+  "last_modified": "2024-10-18T23:47:57",
+  "dataset": "empresas",
+  "date_ref": "2024-05",
+  "partition": "7"
+ },
+ {
+  "name": "Empresas8",
+  "extension": "zip",
+  "url": "https://arquivos.receitafederal.gov.br/dados/cnpj/dados_abertos_cnpj/2024-05/Empresas8.zip",
+  "file_size": 99730122,
+  "last_modified": "2024-10-18T23:48:12",
+  "dataset": "empresas",
+  "date_ref": "2024-05",
+  "partition": "8"
+ },
+ {
+  "name": "Empresas9",
+  "extension": "zip",
+  "url": "https://arquivos.receitafederal.gov.br/dados/cnpj/dados_abertos_cnpj/2024-05/Empresas9.zip",
+  "file_size": 95256957,
+  "last_modified": "2024-10-18T23:48:08",
+  "dataset": "empresas",
+  "date_ref": "2024-05",
+  "partition": "9"
+ },
+ {
+  "name": "Empresas0",
+  "extension": "zip",
+  "url": "https://arquivos.receitafederal.gov.br/dados/cnpj/dados_abertos_cnpj/2024-06/Empresas0.zip",
+  "file_size": 342177771,
+  "last_modified": "2024-10-19T01:30:51",
+  "dataset": "empresas",
+  "date_ref": "2024-06",
+  "partition": "0"
+ },
+ {
+  "name": "Empresas1",
+  "extension": "zip",
+  "url": "https://arquivos.receitafederal.gov.br/dados/cnpj/dados_abertos_cnpj/2024-06/Empresas1.zip",
+  "file_size": 77760838,
+  "last_modified": "2024-10-19T01:28:10",
+  "dataset": "empresas",
+  "date_ref": "2024-06",
+  "partition": "1"
+ },
+ {
+  "name": "Empresas2",
+  "extension": "zip",
+  "url": "https://arquivos.receitafederal.gov.br/dados/cnpj/dados_abertos_cnpj/2024-06/Empresas2.zip",
+  "file_size": 79010351,
+  "last_modified": "2024-10-19T01:27:53",
+  "dataset": "empresas",
+  "date_ref": "2024-06",
+  "partition": "2"
+ },
+ {
+  "name": "Empresas3",
+  "extension": "zip",
+  "url": "https://arquivos.receitafederal.gov.br/dados/cnpj/dados_abertos_cnpj/2024-06/Empresas3.zip",
+  "file_size": 85151480,
+  "last_modified": "2024-10-19T01:27:56",
+  "dataset": "empresas",
+  "date_ref": "2024-06",
+  "partition": "3"
+ },
+ {
+  "name": "Empresas4",
+  "extension": "zip",
+  "url": "https://arquivos.receitafederal.gov.br/dados/cnpj/dados_abertos_cnpj/2024-06/Empresas4.zip",
+  "file_size": 90428691,
+  "last_modified": "2024-10-19T01:28:11",
+  "dataset": "empresas",
+  "date_ref": "2024-06",
+  "partition": "4"
+ },
+ {
+  "name": "Empresas5",
+  "extension": "zip",
+  "url": "https://arquivos.receitafederal.gov.br/dados/cnpj/dados_abertos_cnpj/2024-06/Empresas5.zip",
+  "file_size": 97671838,
+  "last_modified": "2024-10-19T01:28:06",
+  "dataset": "empresas",
+  "date_ref": "2024-06",
+  "partition": "5"
+ },
+ {
+  "name": "Empresas6",
+  "extension": "zip",
+  "url": "https://arquivos.receitafederal.gov.br/dados/cnpj/dados_abertos_cnpj/2024-06/Empresas6.zip",
+  "file_size": 94688619,
+  "last_modified": "2024-10-19T01:27:56",
+  "dataset": "empresas",
+  "date_ref": "2024-06",
+  "partition": "6"
+ },
+ {
+  "name": "Empresas7",
+  "extension": "zip",
+  "url": "https://arquivos.receitafederal.gov.br/dados/cnpj/dados_abertos_cnpj/2024-06/Empresas7.zip",
+  "file_size": 99418799,
+  "last_modified": "2024-10-19T01:28:06",
+  "dataset": "empresas",
+  "date_ref": "2024-06",
+  "partition": "7"
+ },
+ {
+  "name": "Empresas8",
+  "extension": "zip",
+  "url": "https://arquivos.receitafederal.gov.br/dados/cnpj/dados_abertos_cnpj/2024-06/Empresas8.zip",
+  "file_size": 99706374,
+  "last_modified": "2024-10-19T01:28:08",
+  "dataset": "empresas",
+  "date_ref": "2024-06",
+  "partition": "8"
+ },
+ {
+  "name": "Empresas9",
+  "extension": "zip",
+  "url": "https://arquivos.receitafederal.gov.br/dados/cnpj/dados_abertos_cnpj/2024-06/Empresas9.zip",
+  "file_size": 95234104,
+  "last_modified": "2024-10-19T01:28:05",
+  "dataset": "empresas",
+  "date_ref": "2024-06",
+  "partition": "9"
+ },
+ {
+  "name": "Empresas0",
+  "extension": "zip",
+  "url": "https://arquivos.receitafederal.gov.br/dados/cnpj/dados_abertos_cnpj/2024-07/Empresas0.zip",
+  "file_size": 349934633,
+  "last_modified": "2024-10-19T06:56:14",
+  "dataset": "empresas",
+  "date_ref": "2024-07",
+  "partition": "0"
+ },
+ {
+  "name": "Empresas1",
+  "extension": "zip",
+  "url": "https://arquivos.receitafederal.gov.br/dados/cnpj/dados_abertos_cnpj/2024-07/Empresas1.zip",
+  "file_size": 77767932,
+  "last_modified": "2024-10-19T06:52:04",
+  "dataset": "empresas",
+  "date_ref": "2024-07",
+  "partition": "1"
+ },
+ {
+  "name": "Empresas2",
+  "extension": "zip",
+  "url": "https://arquivos.receitafederal.gov.br/dados/cnpj/dados_abertos_cnpj/2024-07/Empresas2.zip",
+  "file_size": 79015923,
+  "last_modified": "2024-10-19T06:52:02",
+  "dataset": "empresas",
+  "date_ref": "2024-07",
+  "partition": "2"
+ },
+ {
+  "name": "Empresas3",
+  "extension": "zip",
+  "url": "https://arquivos.receitafederal.gov.br/dados/cnpj/dados_abertos_cnpj/2024-07/Empresas3.zip",
+  "file_size": 85149531,
+  "last_modified": "2024-10-19T06:52:13",
+  "dataset": "empresas",
+  "date_ref": "2024-07",
+  "partition": "3"
+ },
+ {
+  "name": "Empresas4",
+  "extension": "zip",
+  "url": "https://arquivos.receitafederal.gov.br/dados/cnpj/dados_abertos_cnpj/2024-07/Empresas4.zip",
+  "file_size": 90423818,
+  "last_modified": "2024-10-19T06:52:39",
+  "dataset": "empresas",
+  "date_ref": "2024-07",
+  "partition": "4"
+ },
+ {
+  "name": "Empresas5",
+  "extension": "zip",
+  "url": "https://arquivos.receitafederal.gov.br/dados/cnpj/dados_abertos_cnpj/2024-07/Empresas5.zip",
+  "file_size": 97659398,
+  "last_modified": "2024-10-19T06:52:46",
+  "dataset": "empresas",
+  "date_ref": "2024-07",
+  "partition": "5"
+ },
+ {
+  "name": "Empresas6",
+  "extension": "zip",
+  "url": "https://arquivos.receitafederal.gov.br/dados/cnpj/dados_abertos_cnpj/2024-07/Empresas6.zip",
+  "file_size": 94671890,
+  "last_modified": "2024-10-19T06:52:32",
+  "dataset": "empresas",
+  "date_ref": "2024-07",
+  "partition": "6"
+ },
+ {
+  "name": "Empresas7",
+  "extension": "zip",
+  "url": "https://arquivos.receitafederal.gov.br/dados/cnpj/dados_abertos_cnpj/2024-07/Empresas7.zip",
+  "file_size": 99391252,
+  "last_modified": "2024-10-19T06:52:35",
+  "dataset": "empresas",
+  "date_ref": "2024-07",
+  "partition": "7"
+ },
+ {
+  "name": "Empresas8",
+  "extension": "zip",
+  "url": "https://arquivos.receitafederal.gov.br/dados/cnpj/dados_abertos_cnpj/2024-07/Empresas8.zip",
+  "file_size": 99668566,
+  "last_modified": "2024-10-19T06:52:22",
+  "dataset": "empresas",
+  "date_ref": "2024-07",
+  "partition": "8"
+ },
+ {
+  "name": "Empresas9",
+  "extension": "zip",
+  "url": "https://arquivos.receitafederal.gov.br/dados/cnpj/dados_abertos_cnpj/2024-07/Empresas9.zip",
+  "file_size": 95197247,
+  "last_modified": "2024-10-19T06:52:18",
+  "dataset": "empresas",
+  "date_ref": "2024-07",
+  "partition": "9"
+ },
+ {
+  "name": "Empresas0",
+  "extension": "zip",
+  "url": "https://arquivos.receitafederal.gov.br/dados/cnpj/dados_abertos_cnpj/2024-08/Empresas0.zip",
+  "file_size": 358013395,
+  "last_modified": "2024-10-07T15:37:42",
+  "dataset": "empresas",
+  "date_ref": "2024-08",
+  "partition": "0"
+ },
+ {
+  "name": "Empresas1",
+  "extension": "zip",
+  "url": "https://arquivos.receitafederal.gov.br/dados/cnpj/dados_abertos_cnpj/2024-08/Empresas1.zip",
+  "file_size": 77774388,
+  "last_modified": "2024-10-07T15:36:34",
+  "dataset": "empresas",
+  "date_ref": "2024-08",
+  "partition": "1"
+ },
+ {
+  "name": "Empresas2",
+  "extension": "zip",
+  "url": "https://arquivos.receitafederal.gov.br/dados/cnpj/dados_abertos_cnpj/2024-08/Empresas2.zip",
+  "file_size": 79020518,
+  "last_modified": "2024-10-07T15:36:54",
+  "dataset": "empresas",
+  "date_ref": "2024-08",
+  "partition": "2"
+ },
+ {
+  "name": "Empresas3",
+  "extension": "zip",
+  "url": "https://arquivos.receitafederal.gov.br/dados/cnpj/dados_abertos_cnpj/2024-08/Empresas3.zip",
+  "file_size": 85148714,
+  "last_modified": "2024-10-07T15:37:14",
+  "dataset": "empresas",
+  "date_ref": "2024-08",
+  "partition": "3"
+ },
+ {
+  "name": "Empresas4",
+  "extension": "zip",
+  "url": "https://arquivos.receitafederal.gov.br/dados/cnpj/dados_abertos_cnpj/2024-08/Empresas4.zip",
+  "file_size": 90418588,
+  "last_modified": "2024-10-07T15:33:10",
+  "dataset": "empresas",
+  "date_ref": "2024-08",
+  "partition": "4"
+ },
+ {
+  "name": "Empresas5",
+  "extension": "zip",
+  "url": "https://arquivos.receitafederal.gov.br/dados/cnpj/dados_abertos_cnpj/2024-08/Empresas5.zip",
+  "file_size": 97648186,
+  "last_modified": "2024-10-07T15:38:05",
+  "dataset": "empresas",
+  "date_ref": "2024-08",
+  "partition": "5"
+ },
+ {
+  "name": "Empresas6",
+  "extension": "zip",
+  "url": "https://arquivos.receitafederal.gov.br/dados/cnpj/dados_abertos_cnpj/2024-08/Empresas6.zip",
+  "file_size": 94658429,
+  "last_modified": "2024-10-07T15:38:26",
+  "dataset": "empresas",
+  "date_ref": "2024-08",
+  "partition": "6"
+ },
+ {
+  "name": "Empresas7",
+  "extension": "zip",
+  "url": "https://arquivos.receitafederal.gov.br/dados/cnpj/dados_abertos_cnpj/2024-08/Empresas7.zip",
+  "file_size": 99367115,
+  "last_modified": "2024-10-07T15:38:49",
+  "dataset": "empresas",
+  "date_ref": "2024-08",
+  "partition": "7"
+ },
+ {
+  "name": "Empresas8",
+  "extension": "zip",
+  "url": "https://arquivos.receitafederal.gov.br/dados/cnpj/dados_abertos_cnpj/2024-08/Empresas8.zip",
+  "file_size": 99635826,
+  "last_modified": "2024-10-07T15:39:11",
+  "dataset": "empresas",
+  "date_ref": "2024-08",
+  "partition": "8"
+ },
+ {
+  "name": "Empresas9",
+  "extension": "zip",
+  "url": "https://arquivos.receitafederal.gov.br/dados/cnpj/dados_abertos_cnpj/2024-08/Empresas9.zip",
+  "file_size": 95166378,
+  "last_modified": "2024-10-07T15:39:35",
+  "dataset": "empresas",
+  "date_ref": "2024-08",
+  "partition": "9"
+ },
+ {
+  "name": "Empresas0",
+  "extension": "zip",
+  "url": "https://arquivos.receitafederal.gov.br/dados/cnpj/dados_abertos_cnpj/2024-09/Empresas0.zip",
+  "file_size": 370804254,
+  "last_modified": "2024-10-03T23:47:25",
+  "dataset": "empresas",
+  "date_ref": "2024-09",
+  "partition": "0"
+ },
+ {
+  "name": "Empresas1",
+  "extension": "zip",
+  "url": "https://arquivos.receitafederal.gov.br/dados/cnpj/dados_abertos_cnpj/2024-09/Empresas1.zip",
+  "file_size": 77780734,
+  "last_modified": "2024-10-03T23:46:19",
+  "dataset": "empresas",
+  "date_ref": "2024-09",
+  "partition": "1"
+ },
+ {
+  "name": "Empresas2",
+  "extension": "zip",
+  "url": "https://arquivos.receitafederal.gov.br/dados/cnpj/dados_abertos_cnpj/2024-09/Empresas2.zip",
+  "file_size": 79025088,
+  "last_modified": "2024-10-03T23:46:37",
+  "dataset": "empresas",
+  "date_ref": "2024-09",
+  "partition": "2"
+ },
+ {
+  "name": "Empresas3",
+  "extension": "zip",
+  "url": "https://arquivos.receitafederal.gov.br/dados/cnpj/dados_abertos_cnpj/2024-09/Empresas3.zip",
+  "file_size": 85147352,
+  "last_modified": "2024-10-03T23:46:58",
+  "dataset": "empresas",
+  "date_ref": "2024-09",
+  "partition": "3"
+ },
+ {
+  "name": "Empresas4",
+  "extension": "zip",
+  "url": "https://arquivos.receitafederal.gov.br/dados/cnpj/dados_abertos_cnpj/2024-09/Empresas4.zip",
+  "file_size": 90411998,
+  "last_modified": "2024-10-03T23:47:18",
+  "dataset": "empresas",
+  "date_ref": "2024-09",
+  "partition": "4"
+ },
+ {
+  "name": "Empresas5",
+  "extension": "zip",
+  "url": "https://arquivos.receitafederal.gov.br/dados/cnpj/dados_abertos_cnpj/2024-09/Empresas5.zip",
+  "file_size": 97636398,
+  "last_modified": "2024-10-03T23:47:40",
+  "dataset": "empresas",
+  "date_ref": "2024-09",
+  "partition": "5"
+ },
+ {
+  "name": "Empresas6",
+  "extension": "zip",
+  "url": "https://arquivos.receitafederal.gov.br/dados/cnpj/dados_abertos_cnpj/2024-09/Empresas6.zip",
+  "file_size": 94641452,
+  "last_modified": "2024-10-03T23:47:49",
+  "dataset": "empresas",
+  "date_ref": "2024-09",
+  "partition": "6"
+ },
+ {
+  "name": "Empresas7",
+  "extension": "zip",
+  "url": "https://arquivos.receitafederal.gov.br/dados/cnpj/dados_abertos_cnpj/2024-09/Empresas7.zip",
+  "file_size": 99339464,
+  "last_modified": "2024-10-03T23:48:05",
+  "dataset": "empresas",
+  "date_ref": "2024-09",
+  "partition": "7"
+ },
+ {
+  "name": "Empresas8",
+  "extension": "zip",
+  "url": "https://arquivos.receitafederal.gov.br/dados/cnpj/dados_abertos_cnpj/2024-09/Empresas8.zip",
+  "file_size": 99597137,
+  "last_modified": "2024-10-03T23:48:12",
+  "dataset": "empresas",
+  "date_ref": "2024-09",
+  "partition": "8"
+ },
+ {
+  "name": "Empresas9",
+  "extension": "zip",
+  "url": "https://arquivos.receitafederal.gov.br/dados/cnpj/dados_abertos_cnpj/2024-09/Empresas9.zip",
+  "file_size": 95128698,
+  "last_modified": "2024-10-03T23:48:27",
+  "dataset": "empresas",
+  "date_ref": "2024-09",
+  "partition": "9"
+ },
+ {
+  "name": "Empresas0",
+  "extension": "zip",
+  "url": "https://arquivos.receitafederal.gov.br/dados/cnpj/dados_abertos_cnpj/2024-10/Empresas0.zip",
+  "file_size": 377016443,
+  "last_modified": "2024-10-19T20:10:10",
+  "dataset": "empresas",
+  "date_ref": "2024-10",
+  "partition": "0"
+ },
+ {
+  "name": "Empresas1",
+  "extension": "zip",
+  "url": "https://arquivos.receitafederal.gov.br/dados/cnpj/dados_abertos_cnpj/2024-10/Empresas1.zip",
+  "file_size": 77785413,
+  "last_modified": "2024-10-19T20:06:20",
+  "dataset": "empresas",
+  "date_ref": "2024-10",
+  "partition": "1"
+ },
+ {
+  "name": "Empresas2",
+  "extension": "zip",
+  "url": "https://arquivos.receitafederal.gov.br/dados/cnpj/dados_abertos_cnpj/2024-10/Empresas2.zip",
+  "file_size": 79028341,
+  "last_modified": "2024-10-19T20:06:04",
+  "dataset": "empresas",
+  "date_ref": "2024-10",
+  "partition": "2"
+ },
+ {
+  "name": "Empresas3",
+  "extension": "zip",
+  "url": "https://arquivos.receitafederal.gov.br/dados/cnpj/dados_abertos_cnpj/2024-10/Empresas3.zip",
+  "file_size": 85146050,
+  "last_modified": "2024-10-19T20:06:19",
+  "dataset": "empresas",
+  "date_ref": "2024-10",
+  "partition": "3"
+ },
+ {
+  "name": "Empresas4",
+  "extension": "zip",
+  "url": "https://arquivos.receitafederal.gov.br/dados/cnpj/dados_abertos_cnpj/2024-10/Empresas4.zip",
+  "file_size": 90406249,
+  "last_modified": "2024-10-19T20:06:42",
+  "dataset": "empresas",
+  "date_ref": "2024-10",
+  "partition": "4"
+ },
+ {
+  "name": "Empresas5",
+  "extension": "zip",
+  "url": "https://arquivos.receitafederal.gov.br/dados/cnpj/dados_abertos_cnpj/2024-10/Empresas5.zip",
+  "file_size": 97625753,
+  "last_modified": "2024-10-19T20:06:32",
+  "dataset": "empresas",
+  "date_ref": "2024-10",
+  "partition": "5"
+ },
+ {
+  "name": "Empresas6",
+  "extension": "zip",
+  "url": "https://arquivos.receitafederal.gov.br/dados/cnpj/dados_abertos_cnpj/2024-10/Empresas6.zip",
+  "file_size": 94627435,
+  "last_modified": "2024-10-19T20:06:44",
+  "dataset": "empresas",
+  "date_ref": "2024-10",
+  "partition": "6"
+ },
+ {
+  "name": "Empresas7",
+  "extension": "zip",
+  "url": "https://arquivos.receitafederal.gov.br/dados/cnpj/dados_abertos_cnpj/2024-10/Empresas7.zip",
+  "file_size": 99316223,
+  "last_modified": "2024-10-19T20:06:46",
+  "dataset": "empresas",
+  "date_ref": "2024-10",
+  "partition": "7"
+ },
+ {
+  "name": "Empresas8",
+  "extension": "zip",
+  "url": "https://arquivos.receitafederal.gov.br/dados/cnpj/dados_abertos_cnpj/2024-10/Empresas8.zip",
+  "file_size": 99568124,
+  "last_modified": "2024-10-19T20:06:43",
+  "dataset": "empresas",
+  "date_ref": "2024-10",
+  "partition": "8"
+ },
+ {
+  "name": "Empresas9",
+  "extension": "zip",
+  "url": "https://arquivos.receitafederal.gov.br/dados/cnpj/dados_abertos_cnpj/2024-10/Empresas9.zip",
+  "file_size": 95099757,
+  "last_modified": "2024-10-19T20:06:23",
+  "dataset": "empresas",
+  "date_ref": "2024-10",
+  "partition": "9"
+ },
+ {
+  "name": "Empresas0",
+  "extension": "zip",
+  "url": "https://arquivos.receitafederal.gov.br/dados/cnpj/dados_abertos_cnpj/2024-11/Empresas0.zip",
+  "file_size": 383263556,
+  "last_modified": "2024-11-13T19:38:42",
+  "dataset": "empresas",
+  "date_ref": "2024-11",
+  "partition": "0"
+ },
+ {
+  "name": "Empresas1",
+  "extension": "zip",
+  "url": "https://arquivos.receitafederal.gov.br/dados/cnpj/dados_abertos_cnpj/2024-11/Empresas1.zip",
+  "file_size": 77790347,
+  "last_modified": "2024-11-13T19:37:30",
+  "dataset": "empresas",
+  "date_ref": "2024-11",
+  "partition": "1"
+ },
+ {
+  "name": "Empresas2",
+  "extension": "zip",
+  "url": "https://arquivos.receitafederal.gov.br/dados/cnpj/dados_abertos_cnpj/2024-11/Empresas2.zip",
+  "file_size": 79032000,
+  "last_modified": "2024-11-13T19:37:35",
+  "dataset": "empresas",
+  "date_ref": "2024-11",
+  "partition": "2"
+ },
+ {
+  "name": "Empresas3",
+  "extension": "zip",
+  "url": "https://arquivos.receitafederal.gov.br/dados/cnpj/dados_abertos_cnpj/2024-11/Empresas3.zip",
+  "file_size": 85144252,
+  "last_modified": "2024-11-13T19:37:30",
+  "dataset": "empresas",
+  "date_ref": "2024-11",
+  "partition": "3"
+ },
+ {
+  "name": "Empresas4",
+  "extension": "zip",
+  "url": "https://arquivos.receitafederal.gov.br/dados/cnpj/dados_abertos_cnpj/2024-11/Empresas4.zip",
+  "file_size": 90399770,
+  "last_modified": "2024-11-13T19:37:41",
+  "dataset": "empresas",
+  "date_ref": "2024-11",
+  "partition": "4"
+ },
+ {
+  "name": "Empresas5",
+  "extension": "zip",
+  "url": "https://arquivos.receitafederal.gov.br/dados/cnpj/dados_abertos_cnpj/2024-11/Empresas5.zip",
+  "file_size": 97616350,
+  "last_modified": "2024-11-13T19:37:45",
+  "dataset": "empresas",
+  "date_ref": "2024-11",
+  "partition": "5"
+ },
+ {
+  "name": "Empresas6",
+  "extension": "zip",
+  "url": "https://arquivos.receitafederal.gov.br/dados/cnpj/dados_abertos_cnpj/2024-11/Empresas6.zip",
+  "file_size": 94613930,
+  "last_modified": "2024-11-13T19:37:46",
+  "dataset": "empresas",
+  "date_ref": "2024-11",
+  "partition": "6"
+ },
+ {
+  "name": "Empresas7",
+  "extension": "zip",
+  "url": "https://arquivos.receitafederal.gov.br/dados/cnpj/dados_abertos_cnpj/2024-11/Empresas7.zip",
+  "file_size": 99294776,
+  "last_modified": "2024-11-13T19:37:39",
+  "dataset": "empresas",
+  "date_ref": "2024-11",
+  "partition": "7"
+ },
+ {
+  "name": "Empresas8",
+  "extension": "zip",
+  "url": "https://arquivos.receitafederal.gov.br/dados/cnpj/dados_abertos_cnpj/2024-11/Empresas8.zip",
+  "file_size": 99539588,
+  "last_modified": "2024-11-13T19:37:46",
+  "dataset": "empresas",
+  "date_ref": "2024-11",
+  "partition": "8"
+ },
+ {
+  "name": "Empresas9",
+  "extension": "zip",
+  "url": "https://arquivos.receitafederal.gov.br/dados/cnpj/dados_abertos_cnpj/2024-11/Empresas9.zip",
+  "file_size": 95071298,
+  "last_modified": "2024-11-13T19:37:42",
+  "dataset": "empresas",
+  "date_ref": "2024-11",
+  "partition": "9"
+ }
+]

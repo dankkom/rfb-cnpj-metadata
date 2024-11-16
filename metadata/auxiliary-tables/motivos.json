@@ -1,0 +1,192 @@
+[
+ {
+  "name": "Motivos",
+  "extension": "zip",
+  "url": "https://arquivos.receitafederal.gov.br/dados/cnpj/dados_abertos_cnpj/2023-05/Motivos.zip",
+  "file_size": 1133,
+  "last_modified": "2023-05-16T18:47:30",
+  "dataset": "motivos",
+  "group": "tabelas-auxiliares",
+  "date_ref": "2023-05"
+ },
+ {
+  "name": "Motivos",
+  "extension": "zip",
+  "url": "https://arquivos.receitafederal.gov.br/dados/cnpj/dados_abertos_cnpj/2023-06/Motivos.zip",
+  "file_size": 1133,
+  "last_modified": "2023-06-12T18:40:27",
+  "dataset": "motivos",
+  "group": "tabelas-auxiliares",
+  "date_ref": "2023-06"
+ },
+ {
+  "name": "Motivos",
+  "extension": "zip",
+  "url": "https://arquivos.receitafederal.gov.br/dados/cnpj/dados_abertos_cnpj/2023-07/Motivos.zip",
+  "file_size": 1133,
+  "last_modified": "2023-07-17T14:10:52",
+  "dataset": "motivos",
+  "group": "tabelas-auxiliares",
+  "date_ref": "2023-07"
+ },
+ {
+  "name": "Motivos",
+  "extension": "zip",
+  "url": "https://arquivos.receitafederal.gov.br/dados/cnpj/dados_abertos_cnpj/2023-08/Motivos.zip",
+  "file_size": 1133,
+  "last_modified": "2023-08-21T10:29:55",
+  "dataset": "motivos",
+  "group": "tabelas-auxiliares",
+  "date_ref": "2023-08"
+ },
+ {
+  "name": "Motivos",
+  "extension": "zip",
+  "url": "https://arquivos.receitafederal.gov.br/dados/cnpj/dados_abertos_cnpj/2023-09/Motivos.zip",
+  "file_size": 1133,
+  "last_modified": "2023-09-15T14:21:22",
+  "dataset": "motivos",
+  "group": "tabelas-auxiliares",
+  "date_ref": "2023-09"
+ },
+ {
+  "name": "Motivos",
+  "extension": "zip",
+  "url": "https://arquivos.receitafederal.gov.br/dados/cnpj/dados_abertos_cnpj/2023-10/Motivos.zip",
+  "file_size": 1133,
+  "last_modified": "2023-10-18T21:07:04",
+  "dataset": "motivos",
+  "group": "tabelas-auxiliares",
+  "date_ref": "2023-10"
+ },
+ {
+  "name": "Motivos",
+  "extension": "zip",
+  "url": "https://arquivos.receitafederal.gov.br/dados/cnpj/dados_abertos_cnpj/2023-11/Motivos.zip",
+  "file_size": 1133,
+  "last_modified": "2023-11-16T14:10:30",
+  "dataset": "motivos",
+  "group": "tabelas-auxiliares",
+  "date_ref": "2023-11"
+ },
+ {
+  "name": "Motivos",
+  "extension": "zip",
+  "url": "https://arquivos.receitafederal.gov.br/dados/cnpj/dados_abertos_cnpj/2023-12/Motivos.zip",
+  "file_size": 1133,
+  "last_modified": "2023-12-11T21:12:45",
+  "dataset": "motivos",
+  "group": "tabelas-auxiliares",
+  "date_ref": "2023-12"
+ },
+ {
+  "name": "Motivos",
+  "extension": "zip",
+  "url": "https://arquivos.receitafederal.gov.br/dados/cnpj/dados_abertos_cnpj/2024-01/Motivos.zip",
+  "file_size": 1133,
+  "last_modified": "2024-01-16T13:06:49",
+  "dataset": "motivos",
+  "group": "tabelas-auxiliares",
+  "date_ref": "2024-01"
+ },
+ {
+  "name": "Motivos",
+  "extension": "zip",
+  "url": "https://arquivos.receitafederal.gov.br/dados/cnpj/dados_abertos_cnpj/2024-02/Motivos.zip",
+  "file_size": 1133,
+  "last_modified": "2024-02-16T17:59:04",
+  "dataset": "motivos",
+  "group": "tabelas-auxiliares",
+  "date_ref": "2024-02"
+ },
+ {
+  "name": "Motivos",
+  "extension": "zip",
+  "url": "https://arquivos.receitafederal.gov.br/dados/cnpj/dados_abertos_cnpj/2024-03/Motivos.zip",
+  "file_size": 1133,
+  "last_modified": "2024-03-15T11:48:30",
+  "dataset": "motivos",
+  "group": "tabelas-auxiliares",
+  "date_ref": "2024-03"
+ },
+ {
+  "name": "Motivos",
+  "extension": "zip",
+  "url": "https://arquivos.receitafederal.gov.br/dados/cnpj/dados_abertos_cnpj/2024-04/Motivos.zip",
+  "file_size": 1133,
+  "last_modified": "2024-04-17T12:53:43",
+  "dataset": "motivos",
+  "group": "tabelas-auxiliares",
+  "date_ref": "2024-04"
+ },
+ {
+  "name": "Motivos",
+  "extension": "zip",
+  "url": "https://arquivos.receitafederal.gov.br/dados/cnpj/dados_abertos_cnpj/2024-05/Motivos.zip",
+  "file_size": 1133,
+  "last_modified": "2024-10-18T23:52:19",
+  "dataset": "motivos",
+  "group": "tabelas-auxiliares",
+  "date_ref": "2024-05"
+ },
+ {
+  "name": "Motivos",
+  "extension": "zip",
+  "url": "https://arquivos.receitafederal.gov.br/dados/cnpj/dados_abertos_cnpj/2024-06/Motivos.zip",
+  "file_size": 1133,
+  "last_modified": "2024-10-19T01:32:00",
+  "dataset": "motivos",
+  "group": "tabelas-auxiliares",
+  "date_ref": "2024-06"
+ },
+ {
+  "name": "Motivos",
+  "extension": "zip",
+  "url": "https://arquivos.receitafederal.gov.br/dados/cnpj/dados_abertos_cnpj/2024-07/Motivos.zip",
+  "file_size": 1133,
+  "last_modified": "2024-10-19T06:56:24",
+  "dataset": "motivos",
+  "group": "tabelas-auxiliares",
+  "date_ref": "2024-07"
+ },
+ {
+  "name": "Motivos",
+  "extension": "zip",
+  "url": "https://arquivos.receitafederal.gov.br/dados/cnpj/dados_abertos_cnpj/2024-08/Motivos.zip",
+  "file_size": 1133,
+  "last_modified": "2024-10-07T15:55:07",
+  "dataset": "motivos",
+  "group": "tabelas-auxiliares",
+  "date_ref": "2024-08"
+ },
+ {
+  "name": "Motivos",
+  "extension": "zip",
+  "url": "https://arquivos.receitafederal.gov.br/dados/cnpj/dados_abertos_cnpj/2024-09/Motivos.zip",
+  "file_size": 1133,
+  "last_modified": "2024-10-03T23:56:41",
+  "dataset": "motivos",
+  "group": "tabelas-auxiliares",
+  "date_ref": "2024-09"
+ },
+ {
+  "name": "Motivos",
+  "extension": "zip",
+  "url": "https://arquivos.receitafederal.gov.br/dados/cnpj/dados_abertos_cnpj/2024-10/Motivos.zip",
+  "file_size": 1133,
+  "last_modified": "2024-10-19T20:06:46",
+  "dataset": "motivos",
+  "group": "tabelas-auxiliares",
+  "date_ref": "2024-10"
+ },
+ {
+  "name": "Motivos",
+  "extension": "zip",
+  "url": "https://arquivos.receitafederal.gov.br/dados/cnpj/dados_abertos_cnpj/2024-11/Motivos.zip",
+  "file_size": 1133,
+  "last_modified": "2024-11-13T19:17:42",
+  "dataset": "motivos",
+  "group": "tabelas-auxiliares",
+  "date_ref": "2024-11"
+ }
+]

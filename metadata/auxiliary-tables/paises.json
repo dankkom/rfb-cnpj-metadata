@@ -1,0 +1,192 @@
+[
+ {
+  "name": "Paises",
+  "extension": "zip",
+  "url": "https://arquivos.receitafederal.gov.br/dados/cnpj/dados_abertos_cnpj/2023-05/Paises.zip",
+  "file_size": 2745,
+  "last_modified": "2023-05-16T18:47:29",
+  "dataset": "paises",
+  "group": "tabelas-auxiliares",
+  "date_ref": "2023-05"
+ },
+ {
+  "name": "Paises",
+  "extension": "zip",
+  "url": "https://arquivos.receitafederal.gov.br/dados/cnpj/dados_abertos_cnpj/2023-06/Paises.zip",
+  "file_size": 2745,
+  "last_modified": "2023-06-12T18:40:26",
+  "dataset": "paises",
+  "group": "tabelas-auxiliares",
+  "date_ref": "2023-06"
+ },
+ {
+  "name": "Paises",
+  "extension": "zip",
+  "url": "https://arquivos.receitafederal.gov.br/dados/cnpj/dados_abertos_cnpj/2023-07/Paises.zip",
+  "file_size": 2745,
+  "last_modified": "2023-07-17T14:10:52",
+  "dataset": "paises",
+  "group": "tabelas-auxiliares",
+  "date_ref": "2023-07"
+ },
+ {
+  "name": "Paises",
+  "extension": "zip",
+  "url": "https://arquivos.receitafederal.gov.br/dados/cnpj/dados_abertos_cnpj/2023-08/Paises.zip",
+  "file_size": 2745,
+  "last_modified": "2023-08-21T10:29:56",
+  "dataset": "paises",
+  "group": "tabelas-auxiliares",
+  "date_ref": "2023-08"
+ },
+ {
+  "name": "Paises",
+  "extension": "zip",
+  "url": "https://arquivos.receitafederal.gov.br/dados/cnpj/dados_abertos_cnpj/2023-09/Paises.zip",
+  "file_size": 2745,
+  "last_modified": "2023-09-15T14:21:23",
+  "dataset": "paises",
+  "group": "tabelas-auxiliares",
+  "date_ref": "2023-09"
+ },
+ {
+  "name": "Paises",
+  "extension": "zip",
+  "url": "https://arquivos.receitafederal.gov.br/dados/cnpj/dados_abertos_cnpj/2023-10/Paises.zip",
+  "file_size": 2745,
+  "last_modified": "2023-10-18T21:07:04",
+  "dataset": "paises",
+  "group": "tabelas-auxiliares",
+  "date_ref": "2023-10"
+ },
+ {
+  "name": "Paises",
+  "extension": "zip",
+  "url": "https://arquivos.receitafederal.gov.br/dados/cnpj/dados_abertos_cnpj/2023-11/Paises.zip",
+  "file_size": 2745,
+  "last_modified": "2023-11-16T14:10:31",
+  "dataset": "paises",
+  "group": "tabelas-auxiliares",
+  "date_ref": "2023-11"
+ },
+ {
+  "name": "Paises",
+  "extension": "zip",
+  "url": "https://arquivos.receitafederal.gov.br/dados/cnpj/dados_abertos_cnpj/2023-12/Paises.zip",
+  "file_size": 2745,
+  "last_modified": "2023-12-11T21:12:46",
+  "dataset": "paises",
+  "group": "tabelas-auxiliares",
+  "date_ref": "2023-12"
+ },
+ {
+  "name": "Paises",
+  "extension": "zip",
+  "url": "https://arquivos.receitafederal.gov.br/dados/cnpj/dados_abertos_cnpj/2024-01/Paises.zip",
+  "file_size": 2745,
+  "last_modified": "2024-01-16T13:06:49",
+  "dataset": "paises",
+  "group": "tabelas-auxiliares",
+  "date_ref": "2024-01"
+ },
+ {
+  "name": "Paises",
+  "extension": "zip",
+  "url": "https://arquivos.receitafederal.gov.br/dados/cnpj/dados_abertos_cnpj/2024-02/Paises.zip",
+  "file_size": 2745,
+  "last_modified": "2024-02-16T17:59:05",
+  "dataset": "paises",
+  "group": "tabelas-auxiliares",
+  "date_ref": "2024-02"
+ },
+ {
+  "name": "Paises",
+  "extension": "zip",
+  "url": "https://arquivos.receitafederal.gov.br/dados/cnpj/dados_abertos_cnpj/2024-03/Paises.zip",
+  "file_size": 2745,
+  "last_modified": "2024-03-15T11:48:31",
+  "dataset": "paises",
+  "group": "tabelas-auxiliares",
+  "date_ref": "2024-03"
+ },
+ {
+  "name": "Paises",
+  "extension": "zip",
+  "url": "https://arquivos.receitafederal.gov.br/dados/cnpj/dados_abertos_cnpj/2024-04/Paises.zip",
+  "file_size": 2745,
+  "last_modified": "2024-04-17T12:53:43",
+  "dataset": "paises",
+  "group": "tabelas-auxiliares",
+  "date_ref": "2024-04"
+ },
+ {
+  "name": "Paises",
+  "extension": "zip",
+  "url": "https://arquivos.receitafederal.gov.br/dados/cnpj/dados_abertos_cnpj/2024-05/Paises.zip",
+  "file_size": 2745,
+  "last_modified": "2024-10-18T23:52:19",
+  "dataset": "paises",
+  "group": "tabelas-auxiliares",
+  "date_ref": "2024-05"
+ },
+ {
+  "name": "Paises",
+  "extension": "zip",
+  "url": "https://arquivos.receitafederal.gov.br/dados/cnpj/dados_abertos_cnpj/2024-06/Paises.zip",
+  "file_size": 2745,
+  "last_modified": "2024-10-19T01:32:02",
+  "dataset": "paises",
+  "group": "tabelas-auxiliares",
+  "date_ref": "2024-06"
+ },
+ {
+  "name": "Paises",
+  "extension": "zip",
+  "url": "https://arquivos.receitafederal.gov.br/dados/cnpj/dados_abertos_cnpj/2024-07/Paises.zip",
+  "file_size": 2745,
+  "last_modified": "2024-10-19T06:56:24",
+  "dataset": "paises",
+  "group": "tabelas-auxiliares",
+  "date_ref": "2024-07"
+ },
+ {
+  "name": "Paises",
+  "extension": "zip",
+  "url": "https://arquivos.receitafederal.gov.br/dados/cnpj/dados_abertos_cnpj/2024-08/Paises.zip",
+  "file_size": 2745,
+  "last_modified": "2024-10-07T15:55:08",
+  "dataset": "paises",
+  "group": "tabelas-auxiliares",
+  "date_ref": "2024-08"
+ },
+ {
+  "name": "Paises",
+  "extension": "zip",
+  "url": "https://arquivos.receitafederal.gov.br/dados/cnpj/dados_abertos_cnpj/2024-09/Paises.zip",
+  "file_size": 2745,
+  "last_modified": "2024-10-03T23:56:42",
+  "dataset": "paises",
+  "group": "tabelas-auxiliares",
+  "date_ref": "2024-09"
+ },
+ {
+  "name": "Paises",
+  "extension": "zip",
+  "url": "https://arquivos.receitafederal.gov.br/dados/cnpj/dados_abertos_cnpj/2024-10/Paises.zip",
+  "file_size": 2745,
+  "last_modified": "2024-10-19T20:06:47",
+  "dataset": "paises",
+  "group": "tabelas-auxiliares",
+  "date_ref": "2024-10"
+ },
+ {
+  "name": "Paises",
+  "extension": "zip",
+  "url": "https://arquivos.receitafederal.gov.br/dados/cnpj/dados_abertos_cnpj/2024-11/Paises.zip",
+  "file_size": 2745,
+  "last_modified": "2024-11-13T19:17:42",
+  "dataset": "paises",
+  "group": "tabelas-auxiliares",
+  "date_ref": "2024-11"
+ }
+]
