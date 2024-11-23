@@ -4,14 +4,13 @@ from urllib.parse import unquote
 
 import httpx
 
-from .constants import INITIAL_DATE, datasets, auxiliary_tables, tax_regimes, docs
-
+from .constants import INITIAL_DATE, auxiliary_tables, datasets, docs, tax_regimes
 
 START_DATE = datetime.datetime.strptime(INITIAL_DATE, "%Y-%m")
 TODAY = datetime.datetime.now()
 
 
-class Bot:
+class Fetcher:
 
     def __init__(self) -> None:
         self.client = httpx.Client(timeout=600, verify=False)
