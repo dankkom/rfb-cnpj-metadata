@@ -1,7 +1,7 @@
 [project]
 name = "rfb-cnpj-metadata"
 version = "0.1.0"
-description = "Add your description here"
+description = "Collect raw data files' metadata from Receita Federal do Brasil's CNPJ database."
 readme = "README.md"
 requires-python = ">=3.12"
 dependencies = [
