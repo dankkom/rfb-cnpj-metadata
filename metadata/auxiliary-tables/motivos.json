@@ -188,5 +188,15 @@
   "dataset": "motivos",
   "group": "tabelas-auxiliares",
   "date_ref": "2024-11"
+ },
+ {
+  "name": "Motivos",
+  "extension": "zip",
+  "url": "https://arquivos.receitafederal.gov.br/dados/cnpj/dados_abertos_cnpj/2024-12/Motivos.zip",
+  "file_size": 0,
+  "last_modified": null,
+  "dataset": "motivos",
+  "group": "tabelas-auxiliares",
+  "date_ref": "2024-12"
  }
 ]
