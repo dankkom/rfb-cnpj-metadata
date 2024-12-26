@@ -193,8 +193,8 @@
   "name": "Qualificacoes",
   "extension": "zip",
   "url": "https://arquivos.receitafederal.gov.br/dados/cnpj/dados_abertos_cnpj/2024-12/Qualificacoes.zip",
-  "file_size": 0,
-  "last_modified": null,
+  "file_size": 980,
+  "last_modified": "2024-12-18T14:42:36",
   "dataset": "qualificacoes",
   "group": "tabelas-auxiliares",
   "date_ref": "2024-12"
