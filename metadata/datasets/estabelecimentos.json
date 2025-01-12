@@ -1730,6 +1730,76 @@
   "partition": "2"
  },
  {
+  "name": "Estabelecimentos3",
+  "extension": "zip",
+  "url": "https://arquivos.receitafederal.gov.br/dados/cnpj/dados_abertos_cnpj/2024-10/Estabelecimentos3.zip",
+  "file_size": 456504909,
+  "last_modified": "2024-12-30T12:13:32",
+  "dataset": "estabelecimentos",
+  "date_ref": "2024-10",
+  "partition": "3"
+ },
+ {
+  "name": "Estabelecimentos4",
+  "extension": "zip",
+  "url": "https://arquivos.receitafederal.gov.br/dados/cnpj/dados_abertos_cnpj/2024-10/Estabelecimentos4.zip",
+  "file_size": 364108738,
+  "last_modified": "2024-10-19T20:10:48",
+  "dataset": "estabelecimentos",
+  "date_ref": "2024-10",
+  "partition": "4"
+ },
+ {
+  "name": "Estabelecimentos5",
+  "extension": "zip",
+  "url": "https://arquivos.receitafederal.gov.br/dados/cnpj/dados_abertos_cnpj/2024-10/Estabelecimentos5.zip",
+  "file_size": 341303171,
+  "last_modified": "2024-10-19T20:10:37",
+  "dataset": "estabelecimentos",
+  "date_ref": "2024-10",
+  "partition": "5"
+ },
+ {
+  "name": "Estabelecimentos6",
+  "extension": "zip",
+  "url": "https://arquivos.receitafederal.gov.br/dados/cnpj/dados_abertos_cnpj/2024-10/Estabelecimentos6.zip",
+  "file_size": 336974126,
+  "last_modified": "2024-10-19T20:10:47",
+  "dataset": "estabelecimentos",
+  "date_ref": "2024-10",
+  "partition": "6"
+ },
+ {
+  "name": "Estabelecimentos7",
+  "extension": "zip",
+  "url": "https://arquivos.receitafederal.gov.br/dados/cnpj/dados_abertos_cnpj/2024-10/Estabelecimentos7.zip",
+  "file_size": 336710274,
+  "last_modified": "2024-10-19T20:10:30",
+  "dataset": "estabelecimentos",
+  "date_ref": "2024-10",
+  "partition": "7"
+ },
+ {
+  "name": "Estabelecimentos8",
+  "extension": "zip",
+  "url": "https://arquivos.receitafederal.gov.br/dados/cnpj/dados_abertos_cnpj/2024-10/Estabelecimentos8.zip",
+  "file_size": 362089144,
+  "last_modified": "2024-10-19T20:11:25",
+  "dataset": "estabelecimentos",
+  "date_ref": "2024-10",
+  "partition": "8"
+ },
+ {
+  "name": "Estabelecimentos9",
+  "extension": "zip",
+  "url": "https://arquivos.receitafederal.gov.br/dados/cnpj/dados_abertos_cnpj/2024-10/Estabelecimentos9.zip",
+  "file_size": 343480647,
+  "last_modified": "2024-10-19T20:11:11",
+  "dataset": "estabelecimentos",
+  "date_ref": "2024-10",
+  "partition": "9"
+ },
+ {
   "name": "Estabelecimentos0",
   "extension": "zip",
   "url": "https://arquivos.receitafederal.gov.br/dados/cnpj/dados_abertos_cnpj/2024-11/Estabelecimentos0.zip",
@@ -1834,7 +1904,7 @@
   "extension": "zip",
   "url": "https://arquivos.receitafederal.gov.br/dados/cnpj/dados_abertos_cnpj/2024-12/Estabelecimentos0.zip",
   "file_size": 1526016353,
-  "last_modified": "2024-12-18T14:39:06",
+  "last_modified": "2024-12-30T12:43:14",
   "dataset": "estabelecimentos",
   "date_ref": "2024-12",
   "partition": "0"
@@ -1844,7 +1914,7 @@
   "extension": "zip",
   "url": "https://arquivos.receitafederal.gov.br/dados/cnpj/dados_abertos_cnpj/2024-12/Estabelecimentos1.zip",
   "file_size": 339485629,
-  "last_modified": "2024-12-18T14:39:29",
+  "last_modified": "2024-12-30T12:43:36",
   "dataset": "estabelecimentos",
   "date_ref": "2024-12",
   "partition": "1"
@@ -1854,7 +1924,7 @@
   "extension": "zip",
   "url": "https://arquivos.receitafederal.gov.br/dados/cnpj/dados_abertos_cnpj/2024-12/Estabelecimentos2.zip",
   "file_size": 336902969,
-  "last_modified": "2024-12-18T14:39:51",
+  "last_modified": "2024-12-30T12:43:59",
   "dataset": "estabelecimentos",
   "date_ref": "2024-12",
   "partition": "2"
@@ -1864,7 +1934,7 @@
   "extension": "zip",
   "url": "https://arquivos.receitafederal.gov.br/dados/cnpj/dados_abertos_cnpj/2024-12/Estabelecimentos3.zip",
   "file_size": 338578192,
-  "last_modified": "2024-12-18T14:40:15",
+  "last_modified": "2024-12-30T12:44:51",
   "dataset": "estabelecimentos",
   "date_ref": "2024-12",
   "partition": "3"
@@ -1874,7 +1944,7 @@
   "extension": "zip",
   "url": "https://arquivos.receitafederal.gov.br/dados/cnpj/dados_abertos_cnpj/2024-12/Estabelecimentos4.zip",
   "file_size": 364578518,
-  "last_modified": "2024-12-18T14:40:39",
+  "last_modified": "2024-12-30T12:45:49",
   "dataset": "estabelecimentos",
   "date_ref": "2024-12",
   "partition": "4"
@@ -1884,7 +1954,7 @@
   "extension": "zip",
   "url": "https://arquivos.receitafederal.gov.br/dados/cnpj/dados_abertos_cnpj/2024-12/Estabelecimentos5.zip",
   "file_size": 339148217,
-  "last_modified": "2024-12-18T14:41:01",
+  "last_modified": "2024-12-30T12:46:44",
   "dataset": "estabelecimentos",
   "date_ref": "2024-12",
   "partition": "5"
@@ -1894,7 +1964,7 @@
   "extension": "zip",
   "url": "https://arquivos.receitafederal.gov.br/dados/cnpj/dados_abertos_cnpj/2024-12/Estabelecimentos6.zip",
   "file_size": 336612141,
-  "last_modified": "2024-12-18T14:41:24",
+  "last_modified": "2024-12-30T12:47:45",
   "dataset": "estabelecimentos",
   "date_ref": "2024-12",
   "partition": "6"
@@ -1904,7 +1974,7 @@
   "extension": "zip",
   "url": "https://arquivos.receitafederal.gov.br/dados/cnpj/dados_abertos_cnpj/2024-12/Estabelecimentos7.zip",
   "file_size": 340911532,
-  "last_modified": "2024-12-18T14:41:47",
+  "last_modified": "2024-12-30T12:48:40",
   "dataset": "estabelecimentos",
   "date_ref": "2024-12",
   "partition": "7"
@@ -1914,7 +1984,7 @@
   "extension": "zip",
   "url": "https://arquivos.receitafederal.gov.br/dados/cnpj/dados_abertos_cnpj/2024-12/Estabelecimentos8.zip",
   "file_size": 363902163,
-  "last_modified": "2024-12-18T14:42:11",
+  "last_modified": "2024-12-30T12:49:43",
   "dataset": "estabelecimentos",
   "date_ref": "2024-12",
   "partition": "8"
@@ -1924,9 +1994,109 @@
   "extension": "zip",
   "url": "https://arquivos.receitafederal.gov.br/dados/cnpj/dados_abertos_cnpj/2024-12/Estabelecimentos9.zip",
   "file_size": 337641319,
-  "last_modified": "2024-12-18T14:42:33",
+  "last_modified": "2024-12-30T12:50:05",
   "dataset": "estabelecimentos",
   "date_ref": "2024-12",
+  "partition": "9"
+ },
+ {
+  "name": "Estabelecimentos0",
+  "extension": "zip",
+  "url": "https://arquivos.receitafederal.gov.br/dados/cnpj/dados_abertos_cnpj/2025-01/Estabelecimentos0.zip",
+  "file_size": 1547379764,
+  "last_modified": "2025-01-12T01:45:17",
+  "dataset": "estabelecimentos",
+  "date_ref": "2025-01",
+  "partition": "0"
+ },
+ {
+  "name": "Estabelecimentos1",
+  "extension": "zip",
+  "url": "https://arquivos.receitafederal.gov.br/dados/cnpj/dados_abertos_cnpj/2025-01/Estabelecimentos1.zip",
+  "file_size": 339553698,
+  "last_modified": "2025-01-12T01:46:36",
+  "dataset": "estabelecimentos",
+  "date_ref": "2025-01",
+  "partition": "1"
+ },
+ {
+  "name": "Estabelecimentos2",
+  "extension": "zip",
+  "url": "https://arquivos.receitafederal.gov.br/dados/cnpj/dados_abertos_cnpj/2025-01/Estabelecimentos2.zip",
+  "file_size": 336792258,
+  "last_modified": "2025-01-12T01:47:20",
+  "dataset": "estabelecimentos",
+  "date_ref": "2025-01",
+  "partition": "2"
+ },
+ {
+  "name": "Estabelecimentos3",
+  "extension": "zip",
+  "url": "https://arquivos.receitafederal.gov.br/dados/cnpj/dados_abertos_cnpj/2025-01/Estabelecimentos3.zip",
+  "file_size": 339832464,
+  "last_modified": "2025-01-12T01:47:43",
+  "dataset": "estabelecimentos",
+  "date_ref": "2025-01",
+  "partition": "3"
+ },
+ {
+  "name": "Estabelecimentos4",
+  "extension": "zip",
+  "url": "https://arquivos.receitafederal.gov.br/dados/cnpj/dados_abertos_cnpj/2025-01/Estabelecimentos4.zip",
+  "file_size": 363966705,
+  "last_modified": "2025-01-12T01:48:07",
+  "dataset": "estabelecimentos",
+  "date_ref": "2025-01",
+  "partition": "4"
+ },
+ {
+  "name": "Estabelecimentos5",
+  "extension": "zip",
+  "url": "https://arquivos.receitafederal.gov.br/dados/cnpj/dados_abertos_cnpj/2025-01/Estabelecimentos5.zip",
+  "file_size": 338569074,
+  "last_modified": "2025-01-12T01:48:29",
+  "dataset": "estabelecimentos",
+  "date_ref": "2025-01",
+  "partition": "5"
+ },
+ {
+  "name": "Estabelecimentos6",
+  "extension": "zip",
+  "url": "https://arquivos.receitafederal.gov.br/dados/cnpj/dados_abertos_cnpj/2025-01/Estabelecimentos6.zip",
+  "file_size": 336378353,
+  "last_modified": "2025-01-12T01:48:53",
+  "dataset": "estabelecimentos",
+  "date_ref": "2025-01",
+  "partition": "6"
+ },
+ {
+  "name": "Estabelecimentos7",
+  "extension": "zip",
+  "url": "https://arquivos.receitafederal.gov.br/dados/cnpj/dados_abertos_cnpj/2025-01/Estabelecimentos7.zip",
+  "file_size": 343243252,
+  "last_modified": "2025-01-12T01:49:37",
+  "dataset": "estabelecimentos",
+  "date_ref": "2025-01",
+  "partition": "7"
+ },
+ {
+  "name": "Estabelecimentos8",
+  "extension": "zip",
+  "url": "https://arquivos.receitafederal.gov.br/dados/cnpj/dados_abertos_cnpj/2025-01/Estabelecimentos8.zip",
+  "file_size": 362512472,
+  "last_modified": "2025-01-12T01:50:26",
+  "dataset": "estabelecimentos",
+  "date_ref": "2025-01",
+  "partition": "8"
+ },
+ {
+  "name": "Estabelecimentos9",
+  "extension": "zip",
+  "url": "https://arquivos.receitafederal.gov.br/dados/cnpj/dados_abertos_cnpj/2025-01/Estabelecimentos9.zip",
+  "file_size": 338194930,
+  "last_modified": "2025-01-12T01:50:48",
+  "dataset": "estabelecimentos",
+  "date_ref": "2025-01",
   "partition": "9"
  }
 ]

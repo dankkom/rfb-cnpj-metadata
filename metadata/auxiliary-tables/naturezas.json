@@ -194,9 +194,19 @@
   "extension": "zip",
   "url": "https://arquivos.receitafederal.gov.br/dados/cnpj/dados_abertos_cnpj/2024-12/Naturezas.zip",
   "file_size": 1523,
-  "last_modified": "2024-12-18T14:42:35",
+  "last_modified": "2024-12-30T12:50:08",
   "dataset": "naturezas",
   "group": "tabelas-auxiliares",
   "date_ref": "2024-12"
+ },
+ {
+  "name": "Naturezas",
+  "extension": "zip",
+  "url": "https://arquivos.receitafederal.gov.br/dados/cnpj/dados_abertos_cnpj/2025-01/Naturezas.zip",
+  "file_size": 1523,
+  "last_modified": "2025-01-12T01:52:24",
+  "dataset": "naturezas",
+  "group": "tabelas-auxiliares",
+  "date_ref": "2025-01"
  }
 ]

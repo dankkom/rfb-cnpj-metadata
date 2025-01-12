@@ -1714,7 +1714,7 @@
   "extension": "zip",
   "url": "https://arquivos.receitafederal.gov.br/dados/cnpj/dados_abertos_cnpj/2024-12/Simples.zip",
   "file_size": 242808708,
-  "last_modified": "2024-12-18T14:42:53",
+  "last_modified": "2024-12-30T12:50:27",
   "dataset": "simples",
   "date_ref": "2024-12"
  },
@@ -1723,7 +1723,7 @@
   "extension": "zip",
   "url": "https://arquivos.receitafederal.gov.br/dados/cnpj/dados_abertos_cnpj/2024-12/Simples.zip",
   "file_size": 242808708,
-  "last_modified": "2024-12-18T14:42:53",
+  "last_modified": "2024-12-30T12:50:27",
   "dataset": "simples",
   "date_ref": "2024-12"
  },
@@ -1732,7 +1732,7 @@
   "extension": "zip",
   "url": "https://arquivos.receitafederal.gov.br/dados/cnpj/dados_abertos_cnpj/2024-12/Simples.zip",
   "file_size": 242808708,
-  "last_modified": "2024-12-18T14:42:53",
+  "last_modified": "2024-12-30T12:50:27",
   "dataset": "simples",
   "date_ref": "2024-12"
  },
@@ -1741,7 +1741,7 @@
   "extension": "zip",
   "url": "https://arquivos.receitafederal.gov.br/dados/cnpj/dados_abertos_cnpj/2024-12/Simples.zip",
   "file_size": 242808708,
-  "last_modified": "2024-12-18T14:42:53",
+  "last_modified": "2024-12-30T12:50:27",
   "dataset": "simples",
   "date_ref": "2024-12"
  },
@@ -1750,7 +1750,7 @@
   "extension": "zip",
   "url": "https://arquivos.receitafederal.gov.br/dados/cnpj/dados_abertos_cnpj/2024-12/Simples.zip",
   "file_size": 242808708,
-  "last_modified": "2024-12-18T14:42:53",
+  "last_modified": "2024-12-30T12:50:27",
   "dataset": "simples",
   "date_ref": "2024-12"
  },
@@ -1759,7 +1759,7 @@
   "extension": "zip",
   "url": "https://arquivos.receitafederal.gov.br/dados/cnpj/dados_abertos_cnpj/2024-12/Simples.zip",
   "file_size": 242808708,
-  "last_modified": "2024-12-18T14:42:53",
+  "last_modified": "2024-12-30T12:50:27",
   "dataset": "simples",
   "date_ref": "2024-12"
  },
@@ -1768,7 +1768,7 @@
   "extension": "zip",
   "url": "https://arquivos.receitafederal.gov.br/dados/cnpj/dados_abertos_cnpj/2024-12/Simples.zip",
   "file_size": 242808708,
-  "last_modified": "2024-12-18T14:42:53",
+  "last_modified": "2024-12-30T12:50:27",
   "dataset": "simples",
   "date_ref": "2024-12"
  },
@@ -1777,7 +1777,7 @@
   "extension": "zip",
   "url": "https://arquivos.receitafederal.gov.br/dados/cnpj/dados_abertos_cnpj/2024-12/Simples.zip",
   "file_size": 242808708,
-  "last_modified": "2024-12-18T14:42:53",
+  "last_modified": "2024-12-30T12:50:27",
   "dataset": "simples",
   "date_ref": "2024-12"
  },
@@ -1786,7 +1786,7 @@
   "extension": "zip",
   "url": "https://arquivos.receitafederal.gov.br/dados/cnpj/dados_abertos_cnpj/2024-12/Simples.zip",
   "file_size": 242808708,
-  "last_modified": "2024-12-18T14:42:53",
+  "last_modified": "2024-12-30T12:50:27",
   "dataset": "simples",
   "date_ref": "2024-12"
  },
@@ -1795,8 +1795,98 @@
   "extension": "zip",
   "url": "https://arquivos.receitafederal.gov.br/dados/cnpj/dados_abertos_cnpj/2024-12/Simples.zip",
   "file_size": 242808708,
-  "last_modified": "2024-12-18T14:42:53",
+  "last_modified": "2024-12-30T12:50:27",
   "dataset": "simples",
   "date_ref": "2024-12"
+ },
+ {
+  "name": "Simples",
+  "extension": "zip",
+  "url": "https://arquivos.receitafederal.gov.br/dados/cnpj/dados_abertos_cnpj/2025-01/Simples.zip",
+  "file_size": 247123756,
+  "last_modified": "2025-01-12T01:53:36",
+  "dataset": "simples",
+  "date_ref": "2025-01"
+ },
+ {
+  "name": "Simples",
+  "extension": "zip",
+  "url": "https://arquivos.receitafederal.gov.br/dados/cnpj/dados_abertos_cnpj/2025-01/Simples.zip",
+  "file_size": 247123756,
+  "last_modified": "2025-01-12T01:53:36",
+  "dataset": "simples",
+  "date_ref": "2025-01"
+ },
+ {
+  "name": "Simples",
+  "extension": "zip",
+  "url": "https://arquivos.receitafederal.gov.br/dados/cnpj/dados_abertos_cnpj/2025-01/Simples.zip",
+  "file_size": 247123756,
+  "last_modified": "2025-01-12T01:53:36",
+  "dataset": "simples",
+  "date_ref": "2025-01"
+ },
+ {
+  "name": "Simples",
+  "extension": "zip",
+  "url": "https://arquivos.receitafederal.gov.br/dados/cnpj/dados_abertos_cnpj/2025-01/Simples.zip",
+  "file_size": 247123756,
+  "last_modified": "2025-01-12T01:53:36",
+  "dataset": "simples",
+  "date_ref": "2025-01"
+ },
+ {
+  "name": "Simples",
+  "extension": "zip",
+  "url": "https://arquivos.receitafederal.gov.br/dados/cnpj/dados_abertos_cnpj/2025-01/Simples.zip",
+  "file_size": 247123756,
+  "last_modified": "2025-01-12T01:53:36",
+  "dataset": "simples",
+  "date_ref": "2025-01"
+ },
+ {
+  "name": "Simples",
+  "extension": "zip",
+  "url": "https://arquivos.receitafederal.gov.br/dados/cnpj/dados_abertos_cnpj/2025-01/Simples.zip",
+  "file_size": 247123756,
+  "last_modified": "2025-01-12T01:53:36",
+  "dataset": "simples",
+  "date_ref": "2025-01"
+ },
+ {
+  "name": "Simples",
+  "extension": "zip",
+  "url": "https://arquivos.receitafederal.gov.br/dados/cnpj/dados_abertos_cnpj/2025-01/Simples.zip",
+  "file_size": 247123756,
+  "last_modified": "2025-01-12T01:53:36",
+  "dataset": "simples",
+  "date_ref": "2025-01"
+ },
+ {
+  "name": "Simples",
+  "extension": "zip",
+  "url": "https://arquivos.receitafederal.gov.br/dados/cnpj/dados_abertos_cnpj/2025-01/Simples.zip",
+  "file_size": 247123756,
+  "last_modified": "2025-01-12T01:53:36",
+  "dataset": "simples",
+  "date_ref": "2025-01"
+ },
+ {
+  "name": "Simples",
+  "extension": "zip",
+  "url": "https://arquivos.receitafederal.gov.br/dados/cnpj/dados_abertos_cnpj/2025-01/Simples.zip",
+  "file_size": 247123756,
+  "last_modified": "2025-01-12T01:53:36",
+  "dataset": "simples",
+  "date_ref": "2025-01"
+ },
+ {
+  "name": "Simples",
+  "extension": "zip",
+  "url": "https://arquivos.receitafederal.gov.br/dados/cnpj/dados_abertos_cnpj/2025-01/Simples.zip",
+  "file_size": 247123756,
+  "last_modified": "2025-01-12T01:53:36",
+  "dataset": "simples",
+  "date_ref": "2025-01"
  }
 ]

@@ -194,9 +194,19 @@
   "extension": "zip",
   "url": "https://arquivos.receitafederal.gov.br/dados/cnpj/dados_abertos_cnpj/2024-12/Cnaes.zip",
   "file_size": 22078,
-  "last_modified": "2024-12-18T14:36:02",
+  "last_modified": "2024-12-30T12:37:30",
   "dataset": "cnaes",
   "group": "tabelas-auxiliares",
   "date_ref": "2024-12"
+ },
+ {
+  "name": "Cnaes",
+  "extension": "zip",
+  "url": "https://arquivos.receitafederal.gov.br/dados/cnpj/dados_abertos_cnpj/2025-01/Cnaes.zip",
+  "file_size": 22078,
+  "last_modified": "2025-01-12T01:40:32",
+  "dataset": "cnaes",
+  "group": "tabelas-auxiliares",
+  "date_ref": "2025-01"
  }
 ]

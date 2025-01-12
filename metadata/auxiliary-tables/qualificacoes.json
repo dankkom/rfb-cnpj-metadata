@@ -194,9 +194,19 @@
   "extension": "zip",
   "url": "https://arquivos.receitafederal.gov.br/dados/cnpj/dados_abertos_cnpj/2024-12/Qualificacoes.zip",
   "file_size": 980,
-  "last_modified": "2024-12-18T14:42:36",
+  "last_modified": "2024-12-30T12:50:10",
   "dataset": "qualificacoes",
   "group": "tabelas-auxiliares",
   "date_ref": "2024-12"
+ },
+ {
+  "name": "Qualificacoes",
+  "extension": "zip",
+  "url": "https://arquivos.receitafederal.gov.br/dados/cnpj/dados_abertos_cnpj/2025-01/Qualificacoes.zip",
+  "file_size": 980,
+  "last_modified": "2025-01-12T01:53:18",
+  "dataset": "qualificacoes",
+  "group": "tabelas-auxiliares",
+  "date_ref": "2025-01"
  }
 ]
